@@ -1,1 +1,3 @@
-# hell-mentor
+# 详情
+最终项目只需要有hello-mentor3、Linux获取学校师资数据
+其余文件均为开发过程中的中间文件
