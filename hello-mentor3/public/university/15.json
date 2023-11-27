@@ -1,0 +1,404 @@
+[
+    {
+        "id": "0001",
+        "Name": "马健霄",
+        "Research_direction": "交通规划与设计、交通安全技术、车路协同技术",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2023/04/07/20230407142932978hmi1fy.jpg?iid=57657"
+    },
+    {
+        "id": "0002",
+        "Name": "马哲树",
+        "Research_direction": "新能源汽车及其热管理技术",
+        "img": "None"
+    },
+    {
+        "id": "0003",
+        "Name": "闵永军",
+        "Research_direction": "车辆运行性能检测诊断与评估",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2021/04/01/202104010811263659pny4b.jpg?iid=28944"
+    },
+    {
+        "id": "0004",
+        "Name": "王宏畅",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/01/09/202001090959443568n6kfx.jpg?iid=57653"
+    },
+    {
+        "id": "0005",
+        "Name": "王元纲",
+        "Research_direction": "路面结构与材料、建筑工程材料",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/01/09/20200109100138863ksesf8.jpg?iid=57652"
+    },
+    {
+        "id": "0006",
+        "Name": "徐晓美",
+        "Research_direction": "重型车辆行驶安全控制、声学超构材料设计、汽车队列行驶控制等",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2023/07/04/20230704220510907ixwqbn.jpg?iid=63165"
+    },
+    {
+        "id": "0007",
+        "Name": "姚嘉凌",
+        "Research_direction": "车辆系统动力学与控制",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2022/04/30/20220430225703016z9s48b.jpg?iid=59761"
+    },
+    {
+        "id": "0008",
+        "Name": "张涌",
+        "Research_direction": "节能与新能源汽车控制（整车VCU、电池BMS），自动变速器控制（TCU）、智能车底盘线控（线控转向、线控制动）",
+        "img": "None"
+    },
+    {
+        "id": "0009",
+        "Name": "郑燕萍",
+        "Research_direction": "新能源汽车、现代设计理论与方法等",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2023/04/07/2023040715134666137u3ux.jpg?iid=57658"
+    },
+    {
+        "id": "0010",
+        "Name": "许涛",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/01/09/202001091005564485atp1v.png?iid=57651"
+    },
+    {
+        "id": "0011",
+        "Name": "鞠飞",
+        "Research_direction": "智能新能源汽车节能控制；新能源汽车优化设计；网联自动驾驶汽车决策与规控",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2023/04/07/202304071032023072isa41.png?iid=57647"
+    },
+    {
+        "id": "0012",
+        "Name": "左付山",
+        "Research_direction": "车辆运行性能检测诊断与评估",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628155910733s8xs89.jpg?iid=22463"
+    },
+    {
+        "id": "0013",
+        "Name": "朱震军",
+        "Research_direction": "城市交通规划、轨道站点TOD",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/202006281558477636uwpg6.jpg?iid=22462"
+    },
+    {
+        "id": "0014",
+        "Name": "郑琰",
+        "Research_direction": "港口资源优化与调度、集成调度优化、大数据挖掘技术等",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2021/05/09/20210509202202130xuid7b.png?iid=30548"
+    },
+    {
+        "id": "0015",
+        "Name": "万茂松",
+        "Research_direction": "汽车检测与诊断技术、智能与新能源汽车、车辆结构设计与优化",
+        "img": "None"
+    },
+    {
+        "id": "0016",
+        "Name": "田杰",
+        "Research_direction": "汽车系统动力学及控制、新能源汽车控制自技术、汽车先进转向技术、汽车设计CAD/CAE",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/202006281555224622vs3bt.jpg?iid=22457"
+    },
+    {
+        "id": "0017",
+        "Name": "盛玉刚",
+        "Research_direction": "道路交通安全技术、公共交通规划、停车规划与管理等",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628155152441vyxx9x.jpg?iid=22452"
+    },
+    {
+        "id": "0018",
+        "Name": "程准",
+        "Research_direction": "车辆系统动力学与控制；机械优化设计方法；智能农业机械装备；机器学习；新能源汽车节能技术",
+        "img": "None"
+    },
+    {
+        "id": "0019",
+        "Name": "王崴崴",
+        "Research_direction": "新能源汽车轻量化、车辆被动安全技术、智能微结构超材料、电池热管理等",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2022/09/16/202209161132483848sy7xh.jpg?iid=48363"
+    },
+    {
+        "id": "0020",
+        "Name": "潘义勇",
+        "Research_direction": "交通系统分析和网络建模、多源事故数据挖掘与建模、交通安全、出行行为分析",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628155152548jcle95.jpg?iid=22453"
+    },
+    {
+        "id": "0021",
+        "Name": "邬岚",
+        "Research_direction": "交通运输规划管理 | 公交规划与智能化运营组织 | 网络建模及优化",
+        "img": "None"
+    },
+    {
+        "id": "0022",
+        "Name": "林丽",
+        "Research_direction": "城市与区域交通规划",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628155152740mgmtlz.jpg?iid=22454"
+    },
+    {
+        "id": "0023",
+        "Name": "杜明洋",
+        "Research_direction": "共享交通时空数据挖掘、运营管理建模与优化、出行行为建模和公共政策分析",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2023/10/29/20231029113418415qg8mfx.jpg?iid=69155"
+    },
+    {
+        "id": "0024",
+        "Name": "尹超英",
+        "Research_direction": "交通与土地利用；交通行为建模；交通大数据分析",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2023/09/03/20230903153536128ij9sb2.jpg?iid=65060"
+    },
+    {
+        "id": "0025",
+        "Name": "吴君华",
+        "Research_direction": "车辆排放控制与处理技术",
+        "img": "None"
+    },
+    {
+        "id": "0026",
+        "Name": "李鹏",
+        "Research_direction": "载运工具运行品质模拟与分析、机器人和货物配载与规划",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628155152829qtk23d.jpg?iid=22456"
+    },
+    {
+        "id": "0027",
+        "Name": "金志云",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/2020062815515209485q1ya.jpeg?iid=22450"
+    },
+    {
+        "id": "0028",
+        "Name": "解梅",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628155152361u4uxbn.jpg?iid=22451"
+    },
+    {
+        "id": "0029",
+        "Name": "黄银娣",
+        "Research_direction": "物流系统优化",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/202006281551517609f7txt.jpg?iid=22448"
+    },
+    {
+        "id": "0030",
+        "Name": "韩宝睿",
+        "Research_direction": "道路及附属设施设计理论；交通流理论与仿真；公共交通规划与运营；综合交通规划理论与实践",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628155151984rfmgpa.jpg?iid=22449"
+    },
+    {
+        "id": "0031",
+        "Name": "余伟",
+        "Research_direction": "物流系统设计",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161041155tj7dqr.jpg?iid=22493"
+    },
+    {
+        "id": "0032",
+        "Name": "肖广兵",
+        "Research_direction": "车联网、智能环境感知和自动驾驶等",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/11/202006111640353181nwudd.jpg?iid=22484"
+    },
+    {
+        "id": "0033",
+        "Name": "姜晓红",
+        "Research_direction": "城乡交通运输一体化；低碳运输；末端配送组织",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628160936637crrzfv.jpg?iid=22471"
+    },
+    {
+        "id": "0034",
+        "Name": "张营",
+        "Research_direction": "运输设备状态监测与健康管理、系统可靠性智能预测与分析",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161115817keyznw.jpg?iid=22497"
+    },
+    {
+        "id": "0035",
+        "Name": "马会杰",
+        "Research_direction": "机械信号处理与分析；大数据智能故障诊断",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2023/11/15/20231115090051014w9t3p4.jpg?iid=71087"
+    },
+    {
+        "id": "0036",
+        "Name": "施丽莎",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628162029138t85pi6.jpg?iid=22505"
+    },
+    {
+        "id": "0037",
+        "Name": "赵顗",
+        "Research_direction": "交通规划与管理、智能交通",
+        "img": "None"
+    },
+    {
+        "id": "0038",
+        "Name": "赵奉奎",
+        "Research_direction": "自动驾驶汽车环境感知、导航定位",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161115573bqvxbr.jpg?iid=22496"
+    },
+    {
+        "id": "0039",
+        "Name": "张真",
+        "Research_direction": "高校教学管理",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/2020062816111602941luki.jpg?iid=22499"
+    },
+    {
+        "id": "0040",
+        "Name": "张永强",
+        "Research_direction": "运输安全（道路事故规律、突发事件应急救援）、智能交通、交通控制、物流系统规划、交通运输规划",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161116232bfd2ii.jpg?iid=22500"
+    },
+    {
+        "id": "0041",
+        "Name": "张永辉",
+        "Research_direction": "汽车运用技术、道路运输安全、节能减排技术",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161116124pwla9a.jpg?iid=22501"
+    },
+    {
+        "id": "0042",
+        "Name": "张天慈",
+        "Research_direction": "智能网联车辆技术",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161116681l1t6we.jpg?iid=22502"
+    },
+    {
+        "id": "0043",
+        "Name": "张骏",
+        "Research_direction": "道路运输系统规划与设计",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161115683nh2yxi.jpg?iid=22498"
+    },
+    {
+        "id": "0044",
+        "Name": "张海燕",
+        "Research_direction": "交通运输规划与管理",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161040670gftqdm.jpg?iid=22490"
+    },
+    {
+        "id": "0045",
+        "Name": "杨震",
+        "Research_direction": "道路交运输通安全",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161040431na8f6t.jpg?iid=22487"
+    },
+    {
+        "id": "0046",
+        "Name": "闫星臣",
+        "Research_direction": "自行车交通流、地铁-共享自行车换乘、共享自行车大数据分析",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/202006281610400174qa7xe.jpg?iid=22485"
+    },
+    {
+        "id": "0047",
+        "Name": "薛亮",
+        "Research_direction": "道路交通运输安全与系统优化",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/202006281610401595t1y8p.jpg?iid=22486"
+    },
+    {
+        "id": "0048",
+        "Name": "徐依阳",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161040570iprjlt.jpg?iid=22488"
+    },
+    {
+        "id": "0049",
+        "Name": "汤文蕴",
+        "Research_direction": "自动驾驶、交通出行行为、交通系统分析和网络建模等",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161007995cexgjg.jpg?iid=22476"
+    },
+    {
+        "id": "0050",
+        "Name": "台永鹏",
+        "Research_direction": "MEMS，车辆动力学与控制",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/202006281610085572n8z9d.jpg?iid=22481"
+    },
+    {
+        "id": "0051",
+        "Name": "孙嵩松",
+        "Research_direction": "零部件强度",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161008192yrbgfr.jpg?iid=22478"
+    },
+    {
+        "id": "0052",
+        "Name": "孙宁",
+        "Research_direction": "智能车辆及智能运输",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161008324w8mwyj.jpg?iid=22479"
+    },
+    {
+        "id": "0053",
+        "Name": "佘亚楠",
+        "Research_direction": "汽车电子控制技术",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161008648qvkfk1.jpg?iid=22483"
+    },
+    {
+        "id": "0054",
+        "Name": "乔璐",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/202006281610088032vm8vj.jpg?iid=22482"
+    },
+    {
+        "id": "0055",
+        "Name": "齐欣",
+        "Research_direction": "交通环境",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/2020062816100773597hb5i.jpg?iid=22474"
+    },
+    {
+        "id": "0056",
+        "Name": "吕立亚",
+        "Research_direction": "汽车电子控制技术",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161008413wuw31h.jpeg?iid=22480"
+    },
+    {
+        "id": "0057",
+        "Name": "陆涛",
+        "Research_direction": "交通规划与设计",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161007887gtnxzj.jpg?iid=22475"
+    },
+    {
+        "id": "0058",
+        "Name": "李根",
+        "Research_direction": "交通流理论，交通数据挖掘，智慧交",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628161008099sq6m6k.jpg?iid=22477"
+    },
+    {
+        "id": "0059",
+        "Name": "李冰林",
+        "Research_direction": "汽车电子控制技术",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/202006281609365597pjv8y.jpg?iid=22472"
+    },
+    {
+        "id": "0060",
+        "Name": "李雪峰",
+        "Research_direction": "城市交通规划、交通大数据分析与应用、调度优化建模分析、出行行为建模与分析、公共交通政策分析",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2021/10/26/20211026160120827kewjqq.jpg?iid=36338"
+    },
+    {
+        "id": "0061",
+        "Name": "李爱",
+        "Research_direction": "车辆运行性能智能检测诊断与评估",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628160936275fx91yp.jpg?iid=22470"
+    },
+    {
+        "id": "0062",
+        "Name": "蒋婧雯",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628160936124gxkx1a.jpg?iid=22469"
+    },
+    {
+        "id": "0063",
+        "Name": "华亮",
+        "Research_direction": "车辆性能检测诊断与评估",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628160936771veprz4.jpg?iid=22473"
+    },
+    {
+        "id": "0064",
+        "Name": "龚小林",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628160935530dcjzml.jpg?iid=22464"
+    },
+    {
+        "id": "0065",
+        "Name": "陈燕（院办）",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628160935723w24m5c.jpg?iid=22466"
+    },
+    {
+        "id": "0066",
+        "Name": "陈燕",
+        "Research_direction": "交通经济分析、交通安全管理与设计",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628160935915r8umz5.jpg?iid=22467"
+    },
+    {
+        "id": "0067",
+        "Name": "陈涛",
+        "Research_direction": "None",
+        "img": "https://jty.njfu.edu.cn/DFS//file/2020/06/28/20200628160936043n14pw6.jpg?iid=22468"
+    }
+]

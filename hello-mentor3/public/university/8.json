@@ -1,0 +1,176 @@
+[
+    {
+        "id": "0001",
+        "Name": "刘云飞",
+        "Research_direction": "研究方向：林木无损检测、林业物联网技术、微波与光学技术。<br/>",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/20181224095020887uyswsk.jpg"
+    },
+    {
+        "id": "0002",
+        "Name": "业 宁",
+        "Research_direction": "研究方向：生物信息学 数据挖掘 机器学习。<br/>",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/20181224095450601m6vrek.jpg"
+    },
+    {
+        "id": "0003",
+        "Name": "蒋玲",
+        "Research_direction": "研究方向：人工智能及机器学习算法研究与应用、太赫兹光谱及成像技术应用、射频电路设计。<br/>",
+        "img": "https://it.njfu.edu.cn//DFS//file/2019/12/17/20191217165826924y5ukrd.jpg"
+    },
+    {
+        "id": "0004",
+        "Name": "业巧林",
+        "Research_direction": "研究方向<br/>模式识别、机器学习、人工智能及其在林业上的应用。<br/>1、基于深度学习的遥感图像分类、小目标检测与识别<br/>2、图像鲁棒特征提取<br/>3、距离度量学习<br/>4、多视图学习<br/>5、人工智能+林业（空间结构参数反演、可燃物影响因子监测与预测预报、可疑人员检测、防火等）<br/>",
+        "img": "None"
+    },
+    {
+        "id": "0005",
+        "Name": "朱正礼",
+        "Research_direction": "研究方向: 计算机网络、图像处理<br/>",
+        "img": "None"
+    },
+    {
+        "id": "0006",
+        "Name": "吴芳",
+        "Research_direction": "研究方向：自旋电子学、半导体器件设计。<br/>以低维尺度的半导体材料为研究对象，揭示半导体材料在原子尺度上的物理图像及机制，研究探索新型半导体材料的光电磁等性质，在此基础上设计一些新的信息功能材料，为进一步的自旋电子学器件的设计和生产提供理论依据和指导。",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/20181224095644941gcc1qq.png"
+    },
+    {
+        "id": "0007",
+        "Name": "张 丹",
+        "Research_direction": "None",
+        "img": "https://it.njfu.edu.cn//DFS//file/2020/10/10/20201010115306276t4f69d.jpg"
+    },
+    {
+        "id": "0008",
+        "Name": "张福全",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0009",
+        "Name": "胡春华",
+        "Research_direction": "研究方向：数字图像处理、人工智能与模式识别、服务移动机器人目标人检测与跟踪以及三维可视化。",
+        "img": "https://it.njfu.edu.cn//DFS//file/2020/09/01/202009010848214829zifn7.jpg"
+    },
+    {
+        "id": "0010",
+        "Name": "周雯",
+        "Research_direction": "研究方向<br/>通信中的信号处理、多天线系统的优化设计、信息几何在工程的应用等。",
+        "img": "None"
+    },
+    {
+        "id": "0011",
+        "Name": "郑小宏",
+        "Research_direction": "None",
+        "img": "https://it.njfu.edu.cn//DFS//file/2022/09/26/20220926121853606lam7ss.png"
+    },
+    {
+        "id": "0012",
+        "Name": "赵剑锋",
+        "Research_direction": "研究方向<br/>人工智能、电力电子技术在电力系统中的应用、新能源并网、智能微电网、储能。<br/>",
+        "img": "None"
+    },
+    {
+        "id": "0013",
+        "Name": "林海峰",
+        "Research_direction": "None",
+        "img": "https://it.njfu.edu.cn//DFS//network//szdw/i274151/1685414240750tiyskb.jpg"
+    },
+    {
+        "id": "0014",
+        "Name": "云 挺",
+        "Research_direction": "None",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/20181224095801087zijiuq.jpg"
+    },
+    {
+        "id": "0015",
+        "Name": "杨绪兵",
+        "Research_direction": "研究方向：<br/>模式识别、神经计算和计算机视觉及其应用研究，具体如下：<br/>1.模型设计和求解<br/>2.计算机模拟和数据可视化<br/>3.图像和视频的高精度标注、检测和识别，主要包括林火识别、基于视觉的森林资源测量<br/>4.围绕“智慧林业”，在“卫星-无人机-地面”监测的遥感图像上的应用研究<br/>开源数据和代码可访问https://github.com/xbyang1000",
+        "img": "None"
+    },
+    {
+        "id": "0016",
+        "Name": "何煦岚",
+        "Research_direction": "研究方向：嵌入式系统的开发与应用。",
+        "img": "None"
+    },
+    {
+        "id": "0017",
+        "Name": "沈丽容",
+        "Research_direction": "研究方向：信息系统，数据库",
+        "img": "None"
+    },
+    {
+        "id": "0018",
+        "Name": "薛联凤",
+        "Research_direction": "研究方向：图像处理<br/>",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/201812241000379563pgj1h.jpg"
+    },
+    {
+        "id": "0019",
+        "Name": "汪向华",
+        "Research_direction": "研究方向：自动化<br/>",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/2018122410010786433i4qg.jpg"
+    },
+    {
+        "id": "0020",
+        "Name": "宋 军",
+        "Research_direction": "None",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/201812241002407228kh155.jpg"
+    },
+    {
+        "id": "0021",
+        "Name": "徐 慧",
+        "Research_direction": "研究方向：信号测试技术；智能仪器仪表",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/20181224100311382k82eli.jpg"
+    },
+    {
+        "id": "0022",
+        "Name": "许艺瀚",
+        "Research_direction": "研究方向：信息理论和无线通信、生态系统监测与建模、林草三维可视化<br/>",
+        "img": "https://it.njfu.edu.cn//DFS//file/2023/08/06/202308061305018678fn46n.jpg"
+    },
+    {
+        "id": "0023",
+        "Name": "张黎宁",
+        "Research_direction": "研究方向：遥感图像融合。",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/20181224100521958yey7bh.jpg"
+    },
+    {
+        "id": "0024",
+        "Name": "刘砚一",
+        "Research_direction": "研究方向：可重构器件与电路 细胞神经网络。",
+        "img": "https://it.njfu.edu.cn//DFS//file/2018/12/24/201812241006045867um9k1.png"
+    },
+    {
+        "id": "0025",
+        "Name": "高德民",
+        "Research_direction": "主要研究方向：计算机网络、物联网技术。<br/>",
+        "img": "None"
+    },
+    {
+        "id": "0026",
+        "Name": "范习健",
+        "Research_direction": "研究方向：<br/>情感计算、模式识别、计算机视觉、以及人工智能相关的交叉研究。<br/>",
+        "img": "https://it.njfu.edu.cn//DFS//file/2020/09/21/20200921075043846te3v1l.jpg"
+    },
+    {
+        "id": "0027",
+        "Name": "焦万果",
+        "Research_direction": "研究方向：无线传感器网络、林业物联网。",
+        "img": "https://it.njfu.edu.cn//DFS//file/2019/07/13/20190713144153166wfxrqr.jpg"
+    },
+    {
+        "id": "0028",
+        "Name": "徐昇",
+        "Research_direction": "研究方向：三维空间信息处理，点云数据分析（目标分割、检测与识别），计算机视觉，图像处理等（更多请参考：https://lostagex.github.io）<br/>",
+        "img": "https://it.njfu.edu.cn//DFS//file/2021/03/29/20210329085930770xpb5xs.jpg"
+    },
+    {
+        "id": "0029",
+        "Name": "胡洁",
+        "Research_direction": "研究方向：声信号处理，声超构材料。",
+        "img": "None"
+    }
+]

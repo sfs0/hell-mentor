@@ -1,0 +1,350 @@
+[
+    {
+        "id": "0001",
+        "Name": "陈沫先",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0002",
+        "Name": "李龙",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0003",
+        "Name": "黄菲艺",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2023/02/14/20230214172245241zvpynp.png?iid=54779"
+    },
+    {
+        "id": "0004",
+        "Name": "陈炼",
+        "Research_direction": "<br/>1. 动物适应性进化<br/><br/>2. 入侵生物学<br/><br/>3. 保护生物学<br/><br/>欢迎对动物学和入侵生物学感兴趣的本科生，研究生加入课题组！<br/>",
+        "img": "None"
+    },
+    {
+        "id": "0005",
+        "Name": "李大为",
+        "Research_direction": "1.核酸生物传感器的构建与应用研究  利用适配体及脱氧核酶等功能核酸分子构建生物传感器，结合CRISPR技术、等温扩增技术、功能纳米材料等，对环境样本中微量抗生素、农药、重金属残留等进行超灵敏快速检测。也可对活体或细胞中的瘤标志物、MicroRNA、植物病原微生物等进行超灵敏快速检测。该方向近三年发表中科院一区SCI论文2篇，二区1篇，申请发明专利3项。2.拓扑异构酶抑制剂与核酸类药物研发  拓扑异构酶存在于细胞核内，能够调控DNA分子的超螺旋状态。研究表明，I型DNA拓扑异构酶高表达与癌症密切相关。因此，真核I型DNA拓扑异构酶是良好的抗癌药物设计靶标。我们通过设计构建一系列功能核酸分子，筛选得到能够高效靶向真核I型DNA拓扑异构酶的核酸分子，并用于抗肿瘤核酸类药物的前期开发。同时，我们也希望筛选得到能够靶向原核I型DNA拓扑异构酶的核酸分子，并用于抗菌试剂的开发。该方向近年发表中科院一区SCI论文1篇，二区SCI论文2篇、三区SCI论文4篇，申请发明专利2项，授权1项。<br/>3.植物抗逆基因的表达调控研究  以木本模式植物杨树为研究材料，应用基因组学和生物信息学等技术，克隆鉴定杨树抗逆相关基因。以调控逆境胁迫应答的激素、糖代谢、转导关键基因为研究切入点，从上游调控蛋白、关键调节因子、互作蛋白、下游信号传导等方面对相关基因家族响应逆境胁迫调控网络进行全面性与系统性的研究，并在表型、生理生化及分子生物学水平上，全面认识相关基因在逆境胁迫应答中的作用机理。该方向近三年联合发表中科院一区SCI论文4篇，二区SCI论文3篇，三区SCI论文3篇。",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/21/20220221104206200jp9npf.jpg?iid=40960"
+    },
+    {
+        "id": "0006",
+        "Name": "郭仲龙",
+        "Research_direction": "通过干湿结合的方法，开展植物进化及功能基因组方向的研究，尤其关注microRNA：<br/>1. 通过生物信息学的方法，结合进化生物学理论，揭示microRNA的起源演化模式<br/>2. 通过分子遗传学的方法，揭示物种特有的microRNA的功能及其分子机制<br/>3. 高通量组学数据分析，大数据的整合与数据库系统开发<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/10/04/20221004162258473dr44u6.jpg?iid=49420"
+    },
+    {
+        "id": "0007",
+        "Name": "韩晗",
+        "Research_direction": "<br/><br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/10/04/20221004153143033jq38vf.png?iid=49417"
+    },
+    {
+        "id": "0008",
+        "Name": "封超年",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0009",
+        "Name": "kevin massenge",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0010",
+        "Name": "张强",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0011",
+        "Name": "宋涛",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0012",
+        "Name": "施大伟",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0013",
+        "Name": "李雪霞",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0014",
+        "Name": "徐海滨",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0015",
+        "Name": "刘光欣",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0016",
+        "Name": "廖杨文科",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0017",
+        "Name": "ALI MOVA",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0018",
+        "Name": "诸葛强",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0019",
+        "Name": "周坚",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0020",
+        "Name": "谢寅峰",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/07/01/20220701092600432aij7wi.jpg?iid=45964"
+    },
+    {
+        "id": "0021",
+        "Name": "鞠澄辉",
+        "Research_direction": "动物行为学，行为生态学<br/><br/>教育背景：<br/>2008.8–2015.10, 纽约城市大学, 生物科学, 博士<br/>2003.9–2007.7, 南京大学, 生物科学, 学士<br/><br/><br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/06/28/2022062820000302452b8vx.png?iid=45798"
+    },
+    {
+        "id": "0022",
+        "Name": "王贤荣",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/06/02/20220602120346490u9kxxj.png?iid=44749"
+    },
+    {
+        "id": "0023",
+        "Name": "杨甲定",
+        "Research_direction": "2）探索如何提高植物对环境高盐/重金属离子的耐受/富集能力；",
+        "img": "None"
+    },
+    {
+        "id": "0024",
+        "Name": "伊贤贵",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/05/19/20220519161734337gci125.jpg?iid=44131"
+    },
+    {
+        "id": "0025",
+        "Name": "陈颖",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/04/18/20220418175046744jn53pr.jpg?iid=42939"
+    },
+    {
+        "id": "0026",
+        "Name": "殷文莉",
+        "Research_direction": "（1）动物遗传学<br/>（2）野生动物资源保护<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/03/13/202203131446275893ez235.jpg?iid=41678"
+    },
+    {
+        "id": "0027",
+        "Name": "周延",
+        "Research_direction": "1. 动物生态学：动物种群对气候变化、栖息地破坏的响应；动物行为与气候变化间的相互关系。<br/>2. 保护生物学：禽兽分布及其影响因素、管理对策研究。<br/>3. 乡村生物多样性：农业景观变化对乡村生物多样性的影响。<br/>",
+        "img": "None"
+    },
+    {
+        "id": "0028",
+        "Name": "陈昕",
+        "Research_direction": "",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/03/02/20220302180126484dafh49.png?iid=41335"
+    },
+    {
+        "id": "0029",
+        "Name": "鲁长虎",
+        "Research_direction": "1）人类活动干扰和互花米草入侵背景下的沿海滩涂湿地生物多样性及其保护；<br/>2）基于种子传播的亚热带森林生态系统中动植物互惠及协同进化；<br/>3）珍稀濒危野生动物（鸟类、哺乳动物）保护生物学<br/>学术兼职：<br/>中国林学会自然保护地与生物多样性分会常务理事（2019-2023）；<br/>中国自然资源学会湿地专业委员会副主任委员（2021-2026）；<br/>中国动物学会鸟类学分会委员（2019-2022；2022-2025）；<br/>中国野生动物保护协会鹤类专业委员会委员（2019-2023）；<br/>江苏省动物学会副理事长（2018-2022）；<br/>江苏省野生动物保护协会副会长（2022-2027）；<br/>江苏省生态学会常务理事；<br/>江苏省生态文明研究与促进会理事。<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/28/2022022810493915178d4bj.jpg?iid=41232"
+    },
+    {
+        "id": "0030",
+        "Name": "王征",
+        "Research_direction": "1、动物生态学：主要开展滨海湿地鸟类多样性及其影响因素、动物对环境的表型适应及其进化机制、野生动物资源保护等方面的研究。<br/>2、动植物互作生态学：主要开展鸟类和植物特征对种子传播网络结构与功能的影响、破碎化生境中鸟类传播植物种子的空间集合网络等方面的研究。<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/03/02/202203020129362864bnj5p.jpg?iid=41304"
+    },
+    {
+        "id": "0031",
+        "Name": "张开梅",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/03/02/202203021158277689gz7le.jpg?iid=41317"
+    },
+    {
+        "id": "0032",
+        "Name": "姚文静",
+        "Research_direction": "长期从事植物生长发育及逆境应答相关研究与教学工作，目前主要研究方向为竹类植物成花机理。",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/28/20220228162654053i6lhn4.jpg?iid=41253"
+    },
+    {
+        "id": "0033",
+        "Name": "刘昌来",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0034",
+        "Name": "卜素",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/26/20220226115420828rs22bm.jpg?iid=41225"
+    },
+    {
+        "id": "0035",
+        "Name": "段一凡",
+        "Research_direction": "学术任职：木犀属植物栽培品种国际登录中心主任；桂花产业国家创新联盟秘书长；中国林学会树木学分会副秘书长；中国林学会古树名木分会常务理事。",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/25/202202251353542184fu9g7.jpg?iid=41180"
+    },
+    {
+        "id": "0036",
+        "Name": "魏强",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/24/20220224174847635jtlkxj.jpg?iid=41142"
+    },
+    {
+        "id": "0037",
+        "Name": "林树燕",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/24/20220224160412821g5k7gc.jpg?iid=41131"
+    },
+    {
+        "id": "0038",
+        "Name": "却枫",
+        "Research_direction": "竹类植物的生长发育、植物纤维素合成调控机制、油菜素甾醇调控植物发育的机制。<br/><br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/24/20220224160915217z8wj1t.jpg?iid=41132"
+    },
+    {
+        "id": "0039",
+        "Name": "朱嵊",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/24/202202241052509383vjvqn.jpg?iid=41120"
+    },
+    {
+        "id": "0040",
+        "Name": "孙伟博",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0041",
+        "Name": "韩梅",
+        "Research_direction": "植物营养高效利用的生理、代谢和分子基础及协同调控<br/>新型生物刺激素（氨基酸和小肽等）调节植物生长和抗逆响应的作用及机制<br/>药用植物次生代谢产物生物合成途径中关键酶基因的鉴定与功能解析<br/><br/>Please find additional information below:<br/>https://www.researchgate.net/profile/Mei-Han-10<br/>http://121.248.150.151/default.php?mod=c&s=ssbee0e74&suid=137&stype=1<br/><br/>欢迎有生化和分子生物学背景的优秀学子加入本课题组！",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/25/20220225214747712xdxh6x.jpg?iid=41210"
+    },
+    {
+        "id": "0042",
+        "Name": "杨立明",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0043",
+        "Name": "熊琴",
+        "Research_direction": "1. 植物与病原菌互作——植物病原菌效应蛋白的功能及致病分子机制；<br/>植物和病原真菌的小RNA分子在植物与病原微生物互作中调控免疫的功能及作用机制研究；<br/>植物病原菌关键致病基因的鉴定与功能研究；<br/>2. 植物与微生物群互作——植物控制微生物群稳态的机制；<br/>微生物组介导的植物抗病性机制研究；<br/>3. 重要林木检疫性病原菌的分子检测<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/20/20220220185229680xf76hb.jpg?iid=40943"
+    },
+    {
+        "id": "0044",
+        "Name": "许可旺",
+        "Research_direction": "目前主要从事蕨类植物真水龙骨类II铁角蕨科（Aspleniaceae）的分子系统学、分类学和生物地理学的研究工作，及被子植物冬青科（Aquifoliaceae）的系统分类学工作。目前在Molecular Ecology, Cladistics、Molecular Phylogenetics and Evolution、BMC genomics、Plant Diversity、Systematic Botany等分类和进化生物学领域的主流期刊上发表学术论文近30篇。<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/22/20220222140358781m81hgl.jpg?iid=41030"
+    },
+    {
+        "id": "0045",
+        "Name": "朱福远",
+        "Research_direction": "l 林木可变剪接调控机制研究<br/>l 林木功能蛋白质组学研究<br/>l 药用植物资源利用与种质创新<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/22/20220222154050469qqiyrl.jpg?iid=41028"
+    },
+    {
+        "id": "0046",
+        "Name": "李文凤",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0047",
+        "Name": "许晓岗",
+        "Research_direction": "1.种子植物分类和区系地理系列：植物资源多样性与生态大数据调查研究，种质资源普查、收集和珍稀濒危植物的保护和利用等领域的相关研究工作；<br/>2. 植物资源研究与开发利用：重点开展安息香属植物的遗传多样性和资源保护利用的研究与技术开发；<br/>3. 植被生态修复与景观营造；<br/>4. \t高密度城市环境下城市药用资源疗愈效能与应用。<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/22/20220222155416572nz2sy2.jpg?iid=41035"
+    },
+    {
+        "id": "0048",
+        "Name": "BORZEE AMAEL ANTOINE",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/22/20220222103000136sqbedr.jpg?iid=41019"
+    },
+    {
+        "id": "0049",
+        "Name": "苏涛",
+        "Research_direction": "1. 林木和模式草本植物的糖和氮素代谢调控机理和防御免疫机制；<br/>2. 高山植物的遗传多样性保护、药用植物资源和代谢产物开发利用；<br/>3. 熊猫主食竹资源区系分布、多态性和群落的生态适应性；<br/>4. 转录因子调控银杏次生代谢产物的代谢和合成；<br/>5. 植物激素调节根生长发育和抗逆响应分子机理；<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/12/20220212231523751dqrv8h.jpg?iid=40825"
+    },
+    {
+        "id": "0050",
+        "Name": "张永",
+        "Research_direction": "动物生态学与生物多样性，保护生物学<br/><br/>1.湿地鸟类多样性及其形成和维持机制<br/>2.非法狩猎的多维度驱动因素<br/>3.机场鸟击预警防范<br/><br/>教育背景：<br/>2010.04—2016.01荷兰瓦赫宁根大学资源生态学系Ph.D.<br/>2007.09—2009.12中国科学技术大学生命科学学院M.Sc.<br/>2003.09—2007.07陕西师范大学生命科学学院B.Sc.<br/><br/>学术兼职:<br/>IUCN Species Survival Commission成员(2013–至今)<br/>WI-IUCN SSC Goose Specialist Group成员(2013–至今)<br/>PLOSOne编委",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/21/20220221211525325byqg8e.jpg?iid=40998"
+    },
+    {
+        "id": "0051",
+        "Name": "陈林",
+        "Research_direction": "种子植物分类和区系地理，植物多样性与生态本底调查，种质资源调查、收集和珍稀濒危植物的保护和利用等领域的相关研究工作。重点开展木犀属植物的遗传多样性和资源保护利用的研究与技术开发。<br/>教育背景：<br/><br/>(1) 2006-09至2011-07, 中国科学院研究生院, 华南植物园, 植物学，博士(硕博连读), 导师: 邢福武<br/>(2) 2002-09至2006-07, 西北农林科技大学, 植物保护学院, 植物保护，学士<br/>学术兼职：<br/>木犀属植物栽培品种国际登录中心副主任，桂花产业国家创新联盟副理事长，南方木本花卉产业国家创新联盟副秘书长，江苏特色木本花卉产业技术创新战略联盟副秘书长。",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/21/20220221165110360qzw8zd.jpg?iid=40972"
+    },
+    {
+        "id": "0052",
+        "Name": "张敏",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/13/20220213143402644jpbygm.jpg?iid=40973"
+    },
+    {
+        "id": "0053",
+        "Name": "尹增芳",
+        "Research_direction": "1、观赏植物发育生物学<br/>2、植物资源开发利用及观赏植物种质创新<br/><br/>",
+        "img": "None"
+    },
+    {
+        "id": "0054",
+        "Name": "刘宏毅",
+        "Research_direction": "<br/>1. 围绕濒危动物的种群保护及复壮机制开展研究（主要研究对象为丹顶鹤）<br/><br/>1.1 丹顶鹤种群的遗传变异及其环境适应性<br/><br/>1.2 丹顶鹤的食性及其消化代谢特征<br/><br/>1.3 丹顶鹤的肠道菌群及其生理作用<br/><br/>2. 围绕大型土壤动物的分类进化及环境互作机制展开研究（主要研究对象为环节动物和节肢动物）<br/><br/>2.1 蚯蚓、马陆等大型土壤动物的系统分类<br/><br/>2.2 城市破碎生境对大型土壤动物种群及其遗传结构的影响<br/><br/>2.3 土壤理化因子与大型土壤动物的互作机制<br/>",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/21/20220221105557830pxfz1e.jpg?iid=40964"
+    },
+    {
+        "id": "0055",
+        "Name": "李蒙",
+        "Research_direction": "为种子植物分类、植物分子系统发育、植物生物地理学和植物资源保护与利用。<br/>科研内容主要围绕蔷薇科植物的分类、重要类群的地理分布格局与形成机制、植物资源的保护及开发及利用等展开。目前主要以花楸属植物、樱属植物、蔷薇属植物、悬钩子属植物为主要研究对象及材料。同时进行区域性植物资源调查、植物多样性监测及植物区系地理研究。累计发表学术论文40余篇。包括Science， Molecular Phylogenetics and Evolution， PhytoKeys，Phytotaxa等。同时担任领域内6种SIC期刊审稿人。主持国家自然科学基金青年项目1项。承担本科生的园林树木学（1）、树木学B和硕士研究生的（PD16037）植物分类与识别、（13303）高等树木学、（PD01005）高级树木分类学授课与实验教学工作。<br/><br/>（二）教育背景：<br/>(1) 2016-09至2017-09，哈佛大学，植物学，博士联培<br/>(2) 2013-09至2018-01，中国科学院成都生物研究所，植物学，博士<br/>(3) 2010-09至2013-06，南京林业大学，植物学，硕士<br/>(4) 2006-09至2010-06，南京林业大学，林学，学士<br/><br/>（三）学术兼职:<br/>Journal of Tropical Forest Science, Nordic Journal of Botany, Phytotaxa, Plant Systematics and Evolution, Scientific Reports, The Journal of Animal and Plant Sciences等期刊审稿人。",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/11/20220211105338171brc7d5.jpg?iid=40814"
+    },
+    {
+        "id": "0056",
+        "Name": "彭冶",
+        "Research_direction": "None",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/17/20220217151655549myb9b7.jpg?iid=40863"
+    },
+    {
+        "id": "0057",
+        "Name": "杨永",
+        "Research_direction": "树木学<br/>植物分类学<br/>植物命名法<br/>标本组学<br/>古植物学<br/>生物地理学<br/>生物多样性保护",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/13/202202132004097257ymcc5.jpg?iid=40831"
+    },
+    {
+        "id": "0058",
+        "Name": "方炎明",
+        "Research_direction": "",
+        "img": "https://sky.njfu.edu.cn//DFS//file/2022/02/12/20220212100652726mfcygc.jpeg?iid=40820"
+    }
+]

@@ -1,0 +1,315 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
+<meta name="renderer" content="ie-comp"> 
+<title>陈海燕-讲师-南京林业大学人文社会科学学院</title>
+<meta name="description" content="南京林业大学人文社会科学学院">
+<meta name="keyword" content="">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/DFS//template/1367//other/cp_style1.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/DFS//template/1367//other/nav.css">
+<SCRIPT src="/DFS//template/1367//Include/menu.js" type=text/javascript></SCRIPT>
+<script language="javascript" src="/DFS//template/1367//Include/cpcms.js"></script>
+<script type="text/javascript" src="/ui/jquery/jquery.js?v=v4.0.3"></script><script type="text/javascript" src="/ui/jquery/jquery.base64.js?v=v4.0.3"></script><script type="text/javascript" src="/ui/boshan/ui.js" data-appurl="/bcms/"></script><link type="text/css" rel="stylesheet" href="/ui/page/info.css?v=v4.0.3"/><link type="text/css" rel="stylesheet" href="/ui/page/channel.css?v=v4.0.3"/><script type="text/javascript" src="/ui/visit/visit.js?s=51&c=3057&v=v4.0.3"></script>
+<script type="text/javascript">
+<!--
+function doSearch() {
+  var searchTitle = $('#searchTitle').val();
+  window.open("/bcms//front/datacall/channel/info.do?iid=91&siteid=51&ctype=1&title=" + searchTitle);
+}
+//-->
+</script>
+</head>
+
+<body>
+<table width="1191" border="0" align="center" cellpadding="0" cellspacing="0" id="top">
+  <tr>
+    <td width="1191" height="118" align="center" bgcolor="#e9e9e9" background="/DFS//template/1367//images/top_01.jpg">
+      <table width="242" height="60" border="0" align="right" cellpadding="0" cellspacing="0" id="search">
+        <form method="post" target="_blank" onsubmit="doSearch();">
+          <tr>
+            <td width="168" height="30" align="center"><input id="searchTitle" name="searchTitle" type="text" size="20" style="font-size:14px;"/></td>
+            <td width="74"><input type="submit" name="okbtn" id="okbtn" onclick="doSearch();" style="font-size:14px;" value="搜索" /></td>
+          </tr>
+          <tr>
+            <td height="30" colspan="2" align="center"></td>
+          </tr>
+        </form>
+      </table>    
+    </td>    
+  </tr>
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+  <tr>
+    <td height="40" align="center" bgcolor="#781824">
+	  <table width="1191" border="0" cellpadding="0" cellspacing="0" id="menu-x" align="center">
+        <tr>
+          <td align="center">
+<!--beginblock id=daohang -->
+<div class="menu">
+	  <A class="select" href="http://renwen.njfu.edu.cn">首页</A>
+      <A onMouseOver="mouseover(this,2)" onmouseout=mouseout() href="/xygk/xyjj/" >学院概况</A>
+      <A onMouseOver="mouseover(this,3)" onmouseout=mouseout() href="/xkjs/js/" >师资队伍</A>
+      <A onMouseOver="mouseover(this,4)" onmouseout=mouseout() href="/jxky/xkgk/" >科学研究</A>
+      <A onMouseOver="mouseover(this,5)" onmouseout=mouseout() href="/rcpy/zyjs/" >本科生培养</A>
+      <A onMouseOver="mouseover(this,6)" onmouseout=mouseout() href="/hzjl/cxgc/" >研究生培养</A>
+      <A onMouseOver="mouseover(this,7)" onmouseout=mouseout() href="/dqgz/dzzjs/" >党群工作</A>
+      <A onMouseOver="mouseover(this,8)" onmouseout=mouseout() href="http://renwen.njfu.edu.cn/xwgz/index.html" >学生工作</A>
+      <A onMouseOver="mouseover(this,9)" onmouseout=mouseout() href="/gjhz/gjhz/" >交流合作</A>          
+      <A onMouseOver="mouseover(this,10)" onmouseout=mouseout() href="/rczp/zpxx/" >校友工作</A>          
+      <A onMouseOver="mouseover(this,11)" onmouseout=mouseout() href="/xzzx/jx/" >下载中心</A>          
+</div>
+
+
+<DIV class=menu-list id=menu2 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/xygk/xyjj/index.html"><SPAN>学院简介</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xygk/xrld/index.html"><SPAN>现任领导</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xygk/zzjg/index.html"><SPAN>组织机构</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xygk/xsjs/index.html"><SPAN>发展历程</SPAN></A></LI>
+  </UL>
+</DIV>
+<DIV class=menu-list id=menu3 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/xkjs/js/index.html"><SPAN>教授</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xkjs/fjs/index.html"><SPAN>副教授</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xkjs/js1/index.html"><SPAN>讲师</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xkjs/rczp/index.html"><SPAN>荣休教师</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xkjs/xzfc/index.html"><SPAN>学者风采</SPAN></A></LI>
+  </UL>
+</DIV>
+<DIV class=menu-list id=menu4 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/jxky/xkgk/index.html"><SPAN>研究中心</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/jxky/kycg/index.html"><SPAN>最新成果</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/jxky/xzxl/index.html"><SPAN>学术论著</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/jxky/xsdt/index.html"><SPAN>学术活动</SPAN></A></LI>
+  </UL>
+</DIV>
+<DIV class=menu-list2 id=menu5 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/rcpy/zyjs/index.html"><SPAN>专业介绍</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/rcpy/pyfa/index.html"><SPAN>培养方案</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/rcpy/glzd/index.html"><SPAN>管理制度</SPAN></A></LI>
+  </UL>
+</DIV>
+<DIV class=menu-list2 id=menu6 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/hzjl/cxgc/index.html"><SPAN>学科设置</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/hzjl/pyfa/index.html"><SPAN>培养方案</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/hzjl/dsfc/index.html"><SPAN>导师风采</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/hzjl/lwgz/index.html"><SPAN>管理制度</SPAN></A></LI>
+  </UL>
+</DIV>
+<DIV class=menu-list id=menu7 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/dqgz/dzzjs/index.html"><SPAN>组织机构</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/dqgz/fdxgz/index.html"><SPAN>学院党校</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/dqgz/qtgz/index.html"><SPAN>学院工会</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/dqgz/gltl/index.html"><SPAN>管理条例</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/dqgz/dyfz/index.html"><SPAN>党员发展</SPAN></A></LI>
+  </UL>
+</DIV>
+<DIV class=menu-list id=menu8 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/xwgz/dwjs/index.html"><SPAN>组织机构</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xwgz/stjj/index.html"><SPAN>学生社团</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xwgz/tzzjs/index.html"><SPAN>创新创业</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xwgz/jyxx/index.html"><SPAN>职业规划</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xwgz/zcfg/index.html"><SPAN>学风引领</SPAN></A></LI>
+  </UL>
+</DIV>
+<DIV class=menu-list id=menu9 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/gjhz/sxjd/index.html"><SPAN>实习基地</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/gjhz/gjhz/index.html"><SPAN>国际合作</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/gjhz/gjhzxm/index.html"><SPAN>国际教育</SPAN></A></LI>
+  </UL>
+</DIV>
+<DIV class=menu-list id=menu10 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/rczp/zpxx/index.html"><SPAN>历届校友</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/rczp/zmxy/index.html"><SPAN>知名校友</SPAN></A></LI>
+  </UL>
+</DIV>
+<DIV class=menu-list id=menu11 onmouseover=_mouseover() onmouseout=_mouseout()>
+  <UL>
+      <LI><A href="http://renwen.njfu.edu.cn/xzzx/jx/index.html"><SPAN>教学</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xzzx/ky/index.html"><SPAN>科研</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xzzx/xz/index.html"><SPAN>行政</SPAN></A></LI>
+      <LI><A href="http://renwen.njfu.edu.cn/xzzx/xybzxz/index.html"><SPAN>学院标识</SPAN></A></LI>
+  </UL>
+</DIV>
+<!--endblock -->
+          </td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+</table>
+<table width="1191" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" id="list-main">
+  <tr>
+    <td height="10"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td width="15"></td>
+    <td><table width="1161" height="875" border="0" align="center" cellpadding="0" cellspacing="0" id="list">
+  <tr>
+    <td width="233" height="44" align="center" background="/DFS//template/1367//images/list_01.jpg"><span class="lslefttitle"><!--beginblock id=daleiname -->讲师<!--endblock --></span></td>
+    <td width="9"></td>
+    <td width="919" background="/DFS//template/1367//images/list_03.jpg"><span class="lstitle">您现在的位置：<!--beginblock id=weizhi --><a href="http://renwen.njfu.edu.cn">首页</a> >> 师资队伍  >> 讲师 <!--endblock --></span></td>
+  </tr>
+  <tr>
+    <td height="10" colspan="3"></td>
+  </tr>
+  <tr>
+    <td valign="top"><table id="idx-l" width="233" height="822" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="/DFS//template/1367//images/list-left_01.jpg" width="233" height="6" /></td>
+      </tr>
+      <tr>
+        <td height="811" valign="top" background="/DFS//template/1367//images/list-left_02.jpg"><table width="180" border="0" align="center" cellpadding="0" cellspacing="0" id="menu">
+          <tr>
+            <td height="20"></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/DFS//template/1367//images/menu_01.jpg" width="115" height="9" /></td>
+          </tr>
+          <!--beginblock id=liebiao -->
+          <tr>
+            <td height="40" align="center"><a href="http://renwen.njfu.edu.cn/xkjs/js/index.html">教授</a></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/DFS//template/1367//images/menu_03.jpg" width="115" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="40" align="center"><a href="http://renwen.njfu.edu.cn/xkjs/fjs/index.html">副教授</a></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/DFS//template/1367//images/menu_03.jpg" width="115" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="40" align="center"><a href="http://renwen.njfu.edu.cn/xkjs/js1/index.html">讲师</a></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/DFS//template/1367//images/menu_03.jpg" width="115" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="40" align="center"><a href="http://renwen.njfu.edu.cn/xkjs/rczp/index.html">荣休教师</a></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/DFS//template/1367//images/menu_03.jpg" width="115" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="40" align="center"><a href="http://renwen.njfu.edu.cn/xkjs/xzfc/index.html">学者风采</a></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/DFS//template/1367//images/menu_03.jpg" width="115" height="2" /></td>
+          </tr>
+          <!--endblock -->  
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="/DFS//template/1367//images/list-left_03.jpg" width="233" height="5" /></td>
+      </tr>
+    </table></td>
+    <td width="9"></td>
+    <td valign="top"><table id="list-r" width="919" height="822" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="/DFS//template/1367//images/list-right_01.jpg" width="919" height="5" /></td>
+      </tr>
+      <tr>
+        <td height="813" valign="top" background="/DFS//template/1367//images/list-right_02.jpg">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><TABLE cellSpacing=0 cellPadding=0 width=100% border=0>
+                      <TBODY>
+                        <TR>
+                          <TD vAlign=top align=left width="98%" id="Right_width">
+                              <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+                                <TBODY>
+                                  <TR>
+                                    <TD><TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                                        <TBODY>
+                                          <TR>
+                                            <TD><TABLE width="100%" border=0 cellPadding=0 cellSpacing=0>
+                                                <TBODY>
+                                                  <TR>
+                                                    <TD height=30 width="100%" valign="bottom"><div align="center"><span style="font-size:24px; font-weight:bold">陈海燕</span></div></TD>
+                                                  </TR>
+                                                </TBODY>
+                                            </TABLE></TD>
+                                          </TR>
+                                          <TR>
+                                            <TD><TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                                                <TBODY>
+                                                  <TR>
+                                                    <TD width="100%" vAlign=top>
+                <hr size="1" width="90%">
+                <div align="center">
+                  <table border="0" cellpadding="0" cellspacing="0" width="670">
+                    <tr>
+                      <td width="670" style='FILTER: DropShadow(Color=#cccccc, OffX=1, OffY=1, Positive=1); PADDING-TOP: 2px'><p align="center">发布：  <a href="http://renwen.njfu.edu.cn">renwen.njfu.edu.cn</a>   2019-10-22</td>
+                    </tr>
+                  </table>
+                </div>
+                <table width="900" border="0" align="center" cellpadding="5" cellspacing="4">
+                  <tr>
+                    <td height="54" style="line-height: 150%"><!--beginblock styleuuid=3025bb246634451cb794eaecf8d7e891 id=1111 -->
+                                            <style> 
+   #zoom table{border:1px solid #000000} 
+  /* css注释：只对table标签设置黑色色边框样式 */ 
+   #zoom table td{border:1px solid #000000} 
+
+  /* css注释：只对table标签的td设置黑色色边框样式 */ 
+        </style>
+                                            <div id='zoom'> <p style="text-align: center;">　　<img title="陈海燕" src="/DFS//file/2021/03/03/20210303120822192f7xbzw.jpg"/></p><p style="line-height: 2em;"><strong><span style="font-family: 宋体,SimSun;">&nbsp;&nbsp;&nbsp; 陈海燕</span></strong><span style="font-family: 宋体,SimSun;">，文学硕士，讲师。承担现代汉语、现代汉语语法专题、修辞学、外国留学生汉语偏误分析、对外汉语教学概论等课程的教学，从事《诗经》学研究。主持省高校社科研究项目1项、省社科联研究项目1项，发表论文数篇。</span></p></div>
+                                            <!--endblock --></td>
+                  </tr>
+                </table>
+                                                    </TD>
+                                                  </TR>
+                                                </TBODY>
+                                            </TABLE></TD>
+                                          </TR>
+                                        </TBODY>
+                                    </TABLE></TD>
+                                  </TR>
+                                </TBODY>
+                              </TABLE>
+                            
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td height="8"></td>
+                                </tr>
+                            </table></TD>
+                        </TR>
+                      </TBODY>
+                  </TABLE></td>
+                </tr>
+            </table>		
+		</td>
+      </tr>
+      <tr>
+        <td><img src="/DFS//template/1367//images/list-right_03.jpg" width="919" height="4" /></td>
+      </tr>
+    </table></td>
+  </tr>
+</table></td>
+    <td width="15"></td>
+  </tr>
+</table>
+<table width="1191" height="60" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" id="foot">
+  <tr>
+    <td height="18" background="/DFS//template/1367//images/foot_01.jpg"> </td>
+  </tr>
+  <tr>
+    <td height="45" align="center"><span style="font-family:Arial; font-size:12px">版权所有 © 2020 南京林业大学人文社会科学学院　保留所有权利　　地址：南京市龙蟠路159号　　电话：025-68224968　　传真：025-68224979</span></td>
+  </tr>
+</table>
+</body>
+</html>

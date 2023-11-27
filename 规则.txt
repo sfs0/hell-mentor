@@ -1,0 +1,11 @@
+headers = {#所有都通用的headers
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+}
+#注意要放一个headers在最开始，方便你使用用户代理，最后只需要把下面的函数发出来就行了
+
+def institution_{学院编号}(College_website:string):
+    pass #前面准备过程代码
+    if {获取成功}:
+        return [{链接地址1},{链接地址2},...]
+    else:
+        return ["Error"] #返回一个只含有"Error"的列表，表示出现错误获取失败

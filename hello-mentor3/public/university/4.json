@@ -1,0 +1,560 @@
+[
+    {
+        "id": "0001",
+        "Name": "李娟",
+        "Research_direction": "1. 强化传热技术与装备<br/>2. 单相、多相流动与传热理论<br/>3. 新能源高效利用<br/>4. 中低温余热回收<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042210188297x41zn.jpg?iid=36778"
+    },
+    {
+        "id": "0002",
+        "Name": "陈佳佳",
+        "Research_direction": "1.难加工材料高效精密加工技术<br/>2.绿色加工技术<br/>3.热管强化换热技术<br/>4.二相流传热传质<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105121704089retqlz.jpg?iid=36857"
+    },
+    {
+        "id": "0003",
+        "Name": "于波",
+        "Research_direction": "1.新型润滑与耐磨材料的制备与摩擦学性能研究<br/>2. 磨损界面分析<br/>3. 离子液体的制备与性能<br/>4. 纳米结构磁性材料的制备与性能<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042150044617ky3nv.jpg?iid=36768"
+    },
+    {
+        "id": "0004",
+        "Name": "贾向东",
+        "Research_direction": "1.管、板材塑性成形工艺及理论<br/>2.锻造成形工艺及理论<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/2021110512074620725ziam.jpg?iid=36852"
+    },
+    {
+        "id": "0005",
+        "Name": "陆荣鑑",
+        "Research_direction": "1.机电控制机自动化<br/>2.激光技术及应用<br/>3.数控技术及应用<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105115754530pzaqj2.jpg?iid=36846"
+    },
+    {
+        "id": "0006",
+        "Name": "宋飚",
+        "Research_direction": "1.机械制造工程<br/>2.产品艺术设计<br/>",
+        "img": "None"
+    },
+    {
+        "id": "0007",
+        "Name": "芦清",
+        "Research_direction": "None",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2020/06/23/20200623154141680f55n45.jpg?iid=47622"
+    },
+    {
+        "id": "0008",
+        "Name": "杨雨图",
+        "Research_direction": "1.机械CAD/CAPP/CAM<br/>2. 机电一体化<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042251319137euunf.jpg?iid=36803"
+    },
+    {
+        "id": "0009",
+        "Name": "李秋洁",
+        "Research_direction": "1.农林信息采集与处理<br/>2.点云处理、图像处理、计算机视觉<br/>3.深度学习、模式识别、人工智能<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104220838796584jk4.jpg?iid=36777"
+    },
+    {
+        "id": "0010",
+        "Name": "周海燕",
+        "Research_direction": "1.机电控制方面的实验教学与研究<br/>2.机器人技术<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/2021110422271484368gxw3.jpg?iid=36789"
+    },
+    {
+        "id": "0011",
+        "Name": "刘洋",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0012",
+        "Name": "袁成荣",
+        "Research_direction": "1.木工数控技术<br/>2.机电一体化<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104214758925sbqf5t.jpg?iid=36767"
+    },
+    {
+        "id": "0013",
+        "Name": "单玉霞",
+        "Research_direction": "1.机械CAD/CAE<br/>2. 现代机械设计方法<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/202111051210342806scjup.jpg?iid=36853"
+    },
+    {
+        "id": "0014",
+        "Name": "王立杰",
+        "Research_direction": "1.机械设计及理论<br/>2.机电一体化<br/>3.液压传动及控制<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104220017776481ec3.jpg?iid=36774"
+    },
+    {
+        "id": "0015",
+        "Name": "张玉言",
+        "Research_direction": "1.微机电系统设计及制造技术中的力学问题<br/>2.机械零部件摩擦学设计<br/>3.高速轴承-转子动力学分析<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/12/24/202112240206267714845re.jpg?iid=39815"
+    },
+    {
+        "id": "0016",
+        "Name": "张振军",
+        "Research_direction": "1.机械设计理论<br/>2.液压与气压传动技术<br/>3.机械先进制造技术<br/>4.机械CAD/CAM<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104214302813cngshb.jpg?iid=36765"
+    },
+    {
+        "id": "0017",
+        "Name": "谢超",
+        "Research_direction": "1. 图像处理与计算机视觉<br/>2. 深度学习与人工智能<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104230111858ibwzmz.jpg?iid=36812"
+    },
+    {
+        "id": "0018",
+        "Name": "贾志成",
+        "Research_direction": "1.林木根部病虫害精确防治技术<br/>2.作物遥感诊断技术<br/>3.剑麻机械化采收技术<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/202111051202135787dzgtp.jpg?iid=36849"
+    },
+    {
+        "id": "0019",
+        "Name": "汪晨",
+        "Research_direction": "1. 纤维增强复合材料的力学性能和失效机理，包括准静态、冲击、疲劳方向<br/>2. 连续介质损伤力学、粘聚力单元、扩展有限元等有限元损伤和断裂分析方法<br/>3. 机械CAD/CAE<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105115156176i1rbrw.jpg?iid=36843"
+    },
+    {
+        "id": "0020",
+        "Name": "汪希伟",
+        "Research_direction": "1.生物对象无损检测技术与装备<br/>2.光谱成像与检测技术<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/202111051149438514znh9s.jpg?iid=36842"
+    },
+    {
+        "id": "0021",
+        "Name": "顾洲",
+        "Research_direction": "1. 网络控制系统的分析与综合<br/>2. 分布式复杂动态系统的建模与控制<br/>3. 机械制造及其自动化<br/>4. 车辆悬架系统的控制<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104000106886rtkuua.jpg?iid=36698"
+    },
+    {
+        "id": "0022",
+        "Name": "蒋雪松",
+        "Research_direction": "1.生物传感器<br/>2.微机电系统（MEMS）<br/>3.农林产品品质检测<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/202111032354569643cm3u4.jpg?iid=36694"
+    },
+    {
+        "id": "0023",
+        "Name": "庞启龙",
+        "Research_direction": "1. 表面微观结构的分析与重构<br/>2. parylene镀膜工艺与设备<br/>3. 分子动力学仿真<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104220733513liwagg.jpg?iid=36776"
+    },
+    {
+        "id": "0024",
+        "Name": "倪超",
+        "Research_direction": "1、人工智能技术与应用<br/>2、嵌入式系统开发<br/>3、无损检测<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/20211103234810743qgdq6x.jpg?iid=36690"
+    },
+    {
+        "id": "0025",
+        "Name": "黄玉萍",
+        "Research_direction": "1.农林产品无损检测技术<br/>2.高光谱技术、可见/近红外光谱技术<br/>3.传感技术<br/>4.机械设计与改造<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104221542968j7uqdf.jpg?iid=36782"
+    },
+    {
+        "id": "0026",
+        "Name": "施明宏",
+        "Research_direction": "1.热带农林智能植保及采收装备<br/>2.人造板成型技术<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104223126860y69byv.jpg?iid=36792"
+    },
+    {
+        "id": "0027",
+        "Name": "程玉柱",
+        "Research_direction": "1. 图像处理与模式识别<br/>2. 嵌入式系统开发<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105121232471efd569.jpg?iid=36854"
+    },
+    {
+        "id": "0028",
+        "Name": "陈吉朋",
+        "Research_direction": "1.先进制造技术<br/>2.生物质材料非传统加工技术<br/>3.机电液一体化技术与装备<br/>4.机械装备知识产权发掘与保护<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104222337136ugcuez.jpg?iid=36788"
+    },
+    {
+        "id": "0029",
+        "Name": "危卫华",
+        "Research_direction": "1.高性能切削加工技术<br/>2.农林智能技术与装备<br/>3. 机械装备优化设计<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042158353033xumap.png?iid=36773"
+    },
+    {
+        "id": "0030",
+        "Name": "黄磊",
+        "Research_direction": "1.惯性技术与组合导航<br/>2.嵌入式系统<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042218318844a8hp8.jpg?iid=36784"
+    },
+    {
+        "id": "0031",
+        "Name": "尤晶晶",
+        "Research_direction": "1. 机器人机构学<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042152015055xp3mi.jpg?iid=36769"
+    },
+    {
+        "id": "0032",
+        "Name": "殷红莲",
+        "Research_direction": "1.机械基础力学<br/>2. 医疗机械<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104223027761gmgxmz.jpg?iid=36791"
+    },
+    {
+        "id": "0033",
+        "Name": "周凤芳",
+        "Research_direction": "1.林业机械<br/>2.植保机械<br/>3.园林机械<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042249256168dpa2v.jpg?iid=36802"
+    },
+    {
+        "id": "0034",
+        "Name": "邹红艳",
+        "Research_direction": "1.智能系统<br/>2. 模式识别与图像处理<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104213555665meucgn.jpg?iid=36762"
+    },
+    {
+        "id": "0035",
+        "Name": "倪晓宇",
+        "Research_direction": "1.机械CAD/CAE<br/>2.结构动态设计与优化<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/20211103234623709vml9np.jpg?iid=36689"
+    },
+    {
+        "id": "0036",
+        "Name": "郑建冬",
+        "Research_direction": "1.基于图像的三维测量与工业检测<br/>2.计算机视觉<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104214110363ugidqh.jpg?iid=36764"
+    },
+    {
+        "id": "0037",
+        "Name": "刘军",
+        "Research_direction": "None",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104223313357bpxb5z.jpg?iid=36793"
+    },
+    {
+        "id": "0038",
+        "Name": "周磊",
+        "Research_direction": "1. 深度学习、机器学习<br/>2. 植物表型<br/>3. 机器视觉、光谱分析<br/>4. 林果采摘机器人<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2023/10/17/202310171332314221f1r6w.jpg?iid=68120"
+    },
+    {
+        "id": "0039",
+        "Name": "姜迪",
+        "Research_direction": "1.微纳医疗器械<br/>2.流体动力学仿真<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105120042606hc62zw.jpg?iid=36848"
+    },
+    {
+        "id": "0040",
+        "Name": "顾云风",
+        "Research_direction": "1.固体力学<br/>2.传热学与微机电系统<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111040002461395qxprg.jpg?iid=36699"
+    },
+    {
+        "id": "0041",
+        "Name": "任凯",
+        "Research_direction": "1.先进功能材料设计与计算<br/>2.纳米尺度热管理<br/>3.电机驱动设计<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105115602918q8ukgq.png?iid=36845"
+    },
+    {
+        "id": "0042",
+        "Name": "伍根生",
+        "Research_direction": "1.纳米孔传感器<br/>2.微纳机电系统<br/>3.相变换热<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104230226459snjyiw.jpg?iid=36813"
+    },
+    {
+        "id": "0043",
+        "Name": "姜东",
+        "Research_direction": "1. 机械动力学<br/>2. 非线性振动<br/>3. 转子动力学<br/>4. 旋转机械健康监测<br/>5. 机器视觉测量<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104221355213n7mefy.png?iid=36781"
+    },
+    {
+        "id": "0044",
+        "Name": "张亚军",
+        "Research_direction": "1.优化方法与最优控制<br/>2.工业机器人伺服控制<br/>3.库存及供应链系统的优化与控制<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2020/06/23/20200623154141680f55n45.jpg?iid=47622"
+    },
+    {
+        "id": "0045",
+        "Name": "王占栋",
+        "Research_direction": "1.激光增材制造<br/>2.激光焊接<br/>3.海工装备先进制造<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2023/05/31/20230531182310684f17vc1.jpg?iid=61074"
+    },
+    {
+        "id": "0046",
+        "Name": "吴琼",
+        "Research_direction": "1.机械振动学<br/>2.振动与噪声测试<br/>3.振动模态仿真分析<br/>4.机械结构动态测试<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/2021110423032903621xru7.jpg?iid=36814"
+    },
+    {
+        "id": "0047",
+        "Name": "陈宁",
+        "Research_direction": "1.车辆动力学与控制<br/>2. 机械振动与控制<br/>3. 分数阶系统与控制理论<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104000607631qc8w6f.jpg?iid=36701"
+    },
+    {
+        "id": "0048",
+        "Name": "华洁",
+        "Research_direction": "1. 化工过程机械<br/>2. 生物质能源<br/>3. 低温制冷<br/>4. 机械设计及理论<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104223715630njk4vd.jpg?iid=36797"
+    },
+    {
+        "id": "0049",
+        "Name": "王芳",
+        "Research_direction": "1.控制科学与工程<br/>2.工程图学<br/>3. 结构动态设计与优化<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/202111051148071169j3axj.jpg?iid=36841"
+    },
+    {
+        "id": "0050",
+        "Name": "谢为俊",
+        "Research_direction": "1. 机器视觉、深度学习<br/>2. 农林产品品质无损检测<br/>3. 农林产品智能加工装备<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2023/05/31/20230531085055696wgzbci.jpg?iid=60975"
+    },
+    {
+        "id": "0051",
+        "Name": "孙青云",
+        "Research_direction": "1. 机械设计及理论<br/>2. 机械动力学<br/>3. 工业设计<br/>4. 工业泵<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/12/24/20211224020726434ptq63q.jpg?iid=39817"
+    },
+    {
+        "id": "0052",
+        "Name": "何斌辉",
+        "Research_direction": "1. 机械CAD/CAE<br/>2. 现代机械设计<br/>3. 农林机械设计<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042219558281scnz6.jpg?iid=36785"
+    },
+    {
+        "id": "0053",
+        "Name": "王金鹏",
+        "Research_direction": "1.机器人<br/>2.农林业信息化工程<br/>3. 超声电机、压电作动器及其应用<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104220130189kj6bar.jpg?iid=36775"
+    },
+    {
+        "id": "0054",
+        "Name": "胡桂明",
+        "Research_direction": "1.机械CAD/CAE<br/>2.流体机械<br/>3.高温材料可靠性<br/>4.工程风险评估<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105120732628pieed8.jpg?iid=36851"
+    },
+    {
+        "id": "0055",
+        "Name": "熊立奇",
+        "Research_direction": "1.复合材料的力学性能研究<br/>2.固体力学<br/>3. 机械设计及理论<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104230014334m7jfwa.jpg?iid=36811"
+    },
+    {
+        "id": "0056",
+        "Name": "鄢小安",
+        "Research_direction": "1.机械装备工况监测与故障诊断<br/>2.工程结构损伤机理、损伤识别/定位<br/>3.自适应滤波、降噪、时频分析技术<br/>4.滚动轴承健康状态评估与寿命预测<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2022/10/06/20221006110350785e2rf8q.jpg?iid=49474"
+    },
+    {
+        "id": "0057",
+        "Name": "杨帆",
+        "Research_direction": "1. 网络控制系统的分析与综合<br/>2. 切换控制系统的分析与综合<br/>3. 车辆检测与控制系统<br/>4. 车辆地面力学<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104225339293nwn5lv.jpg?iid=36806"
+    },
+    {
+        "id": "0058",
+        "Name": "朱银龙",
+        "Research_direction": "1. 仿生机器人技术<br/>2. 机器人传感与控制技术<br/>3. 软体智能材料及其应用<br/>4. 机电控制及自动化<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104213844822aaqeyb.jpg?iid=36763"
+    },
+    {
+        "id": "0059",
+        "Name": "商庆清",
+        "Research_direction": "1.机械CAD/CAE<br/>2. 物流技术与装备<br/>3. 图学<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/20211103233309304wk17ae.jpg?iid=36687"
+    },
+    {
+        "id": "0060",
+        "Name": "马晨波",
+        "Research_direction": "1. 现代机械装备设计与研发<br/>2. 工程摩擦学与流体密封技术<br/>3. 机械可靠性理论与分析<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/20211103234956213hnc3d8.jpg?iid=36691"
+    },
+    {
+        "id": "0061",
+        "Name": "蒋建清",
+        "Research_direction": "None",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/20211103235652870l6s3np.jpg?iid=36695"
+    },
+    {
+        "id": "0062",
+        "Name": "缑斌丽",
+        "Research_direction": "1.机械CAD/CAE<br/>2.数控技术<br/>3.精密加工<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042221172871t8bl3.jpg?iid=36786"
+    },
+    {
+        "id": "0063",
+        "Name": "李佳",
+        "Research_direction": "1.承压设备强度计算<br/>2.高效传热传质设备设计<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104223449279q5wczq.jpg?iid=36795"
+    },
+    {
+        "id": "0064",
+        "Name": "李建华",
+        "Research_direction": "1. 机械制造及其自动化<br/>2. 机械设计理论<br/>3. 固态发酵装备及其喷雾接种技术<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104221131841mrv7t8.jpg?iid=36779"
+    },
+    {
+        "id": "0065",
+        "Name": "陈伟宇",
+        "Research_direction": "1. 微尺度传热传质<br/>2. 分子动力学模拟计算<br/>3. 第一性原理模拟计算<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105121551923nvrq6m.jpg?iid=36856"
+    },
+    {
+        "id": "0066",
+        "Name": "江莺",
+        "Research_direction": "嵌入式系统；物联网；高电压等离子体除尘；光纤传感器。<br/>物联网消防系统：基于各种主流消防系统做的联网二次开发，通过ARM网关把消防主机信息进行解析，并发送到Linux系统的云服务器。服务器端用Tomcat作为容器，使用JAVA的主流框架SSM整合了高并发TCP框架MINA、缓存处理Ehcache，使用Mysql数据库存储数据。开发Android手机客户端，访问服务器数据，并能在手机端上实现远程火灾报警等功能。<br/>物联网水系统：很多大楼由于缺少水位、压力的检测，导致经常出现火灾发生但水池没水的情况，延缓了火灾救援。设计低功耗传感器节点，使用电池供电能维持多年使用。传感器节点通过LORA无线技术把采集信息发送到ARM网关，ARM网关集中处理节点的数据，并通过4G发送到服务器上。通过手机端APP可以设置每个地方安装的传感器节点的报警阈值，安全、有效地解决了水池无人监测的问题。<br/>高电压等离子体除尘：在电极两端施加直流高压，并叠加高压窄脉冲，在处理室中产生极不均匀的强电场，形成电晕放电，产生等离子体，在常压下发生许多物、化反应。一方面，电子或正负离子附着在污染颗粒上，使颗粒物带电被高压电极吸附；另一方面，许多污染分子会被直接分解成无害分子、原子，或和电场激发出的电子、自由基、激发态分子等活性物质反应，降解成无害物质，这也是等离子体除尘的关键。等离子体除尘不仅能去除空气中的粉尘，还能去除小颗粒的污染物，不但除尘效率高，而且成本低、无二次污染，是现在工业领域中除尘的主要方式之一，有很高的研究价值。<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/20211103235720448pe9azb.jpg?iid=36696"
+    },
+    {
+        "id": "0067",
+        "Name": "卢轶",
+        "Research_direction": "1. 激光增材制造<br/>2. 智能制造<br/>3. 机器视觉<br/>4. 生物力学<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2023/04/12/202304120925575248bhghk.jpg?iid=57995"
+    },
+    {
+        "id": "0068",
+        "Name": "李赵春",
+        "Research_direction": "1.智能结构与控制<br/>2. 动态测试<br/>3. 虚拟仪器<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/202111032353230748a7xft.jpg?iid=36693"
+    },
+    {
+        "id": "0069",
+        "Name": "成锋娜",
+        "Research_direction": "1. 动力机械<br/>2. 内流体动力学<br/>3. 传热与传质<br/>4. 新能源技术<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105121448369wq2c8t.jpg?iid=36855"
+    },
+    {
+        "id": "0070",
+        "Name": "王旭",
+        "Research_direction": "1. 超声微纳加工<br/>2. 压电作动器设计及其应用<br/>3. 精密驱动与振动利用<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104230533335wx563m.jpg?iid=36815"
+    },
+    {
+        "id": "0071",
+        "Name": "严沈",
+        "Research_direction": "1. 信息物理系统的控制与应用<br/>2. 网络化控制系统的分析与综合<br/>3. 微电网控制与优化<br/>4. 新能源风力发电<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2023/04/26/20230426165021942gf6cgl.jpg?iid=58912"
+    },
+    {
+        "id": "0072",
+        "Name": "杭晓晨",
+        "Research_direction": "1.机械结构动力学与控制<br/>2.飞行器气动弹性稳定性<br/>3.可变体飞行器颤振特性预示<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2023/03/24/20230324164407069ch77lr.jpg?iid=56903"
+    },
+    {
+        "id": "0073",
+        "Name": "郭迎庆",
+        "Research_direction": "1.智能控制<br/>2.智能材料与结构<br/>3.结构振动控制<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/20211103235838709m7tpev.jpg?iid=36697"
+    },
+    {
+        "id": "0074",
+        "Name": "郁毛林",
+        "Research_direction": "1.机电一体化<br/>2. 工业废水和废物处理设备<br/>",
+        "img": "None"
+    },
+    {
+        "id": "0075",
+        "Name": "唐路平",
+        "Research_direction": "1. 新型纳米材料的可控制备与动态结构表征<br/>2. 纳米单体结构的力、热、电特性的原位测试<br/>3. 半导体量子点光电器件<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/2021110511540113021g6el.jpg?iid=36844"
+    },
+    {
+        "id": "0076",
+        "Name": "杨风波",
+        "Research_direction": "1.精准施药技术与装备<br/>2.多相流体动力学<br/>3.多学科优化设计<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104225241156qpz2dc.png?iid=36805"
+    },
+    {
+        "id": "0077",
+        "Name": "吴斌",
+        "Research_direction": "1. 数字化设计与制造（CAD/CAE/CAPP/CAM）<br/>2. 智能制造系统<br/>3. 智能仓储<br/>4. 生物力学<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104215625728e1pmdz.jpg?iid=36772"
+    },
+    {
+        "id": "0078",
+        "Name": "茹煜",
+        "Research_direction": "1. 林业机械及其智能化<br/>2. 农林业航空精准施药技术与装备<br/>3. 现代机械设计理论与方法<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/20211103234441946lus5gx.jpg?iid=36688"
+    },
+    {
+        "id": "0079",
+        "Name": "习爽",
+        "Research_direction": "1.微纳制造<br/>2.微型超级电容/电池<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104215500076m6zpqs.jpg?iid=36771"
+    },
+    {
+        "id": "0080",
+        "Name": "樊晨龙",
+        "Research_direction": "1.机器视觉与图像处理<br/>2.计算机测控与智能农机装备研究<br/>3.智能低损收获技术研究<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2023/05/31/20230531090028363s89ugc.jpg?iid=60976"
+    },
+    {
+        "id": "0081",
+        "Name": "王译那",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0082",
+        "Name": "黄秀玲",
+        "Research_direction": "1.机械设计及理论<br/>2.新材料<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104221657649ul9q59.jpg?iid=36783"
+    },
+    {
+        "id": "0083",
+        "Name": "朱婷婷",
+        "Research_direction": "1.模式识别与智能系统<br/>2.数据挖掘与建模预测<br/>3.林业信息化<br/>4.新能源发电预测与电力调度<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042254462992u4s43.jpg?iid=36807"
+    },
+    {
+        "id": "0084",
+        "Name": "姜树海",
+        "Research_direction": "1.机器人及自动化<br/>2.仿生机器人<br/>3.智能控制<br/>4.工业机器人<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104221234174ntizq4.jpg?iid=36780"
+    },
+    {
+        "id": "0085",
+        "Name": "许小君",
+        "Research_direction": "1.固体力学<br/>2.机械振动<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104225845594f2rvtq.jpg?iid=36810"
+    },
+    {
+        "id": "0086",
+        "Name": "韩权",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0087",
+        "Name": "霍文燚",
+        "Research_direction": "1. 材料加工新技术<br/>2. 高性能金属材料<br/>3. 增材制造<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/05/20211105120609398fygjpn.png?iid=36850"
+    },
+    {
+        "id": "0088",
+        "Name": "张焕萍",
+        "Research_direction": "1. 机械结构仿真分析<br/>2. 生物网络拓朴分析<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104214558720haegpq.jpg?iid=36766"
+    },
+    {
+        "id": "0089",
+        "Name": "陈青",
+        "Research_direction": "1.人工智能技术及其应用<br/>2.智能农林装备<br/>3.流体机械数值模拟及结构优化<br/>4.多尺度流动与传热特性模拟<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042222224144zshcq.jpg?iid=36787"
+    },
+    {
+        "id": "0090",
+        "Name": "刘英",
+        "Research_direction": "1.机电一体化<br/>2. 网络化监控<br/>3. CAD/CAM/CIMS<br/>4.现代机械设计理论<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/03/20211103235147608xkn8s7.jpg?iid=36692"
+    },
+    {
+        "id": "0091",
+        "Name": "李玉荣",
+        "Research_direction": "1.网络化监控<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/202111042233561575efiwq.jpg?iid=36794"
+    },
+    {
+        "id": "0092",
+        "Name": "陈勇",
+        "Research_direction": "1. 机器人技术。研究爬壁机器人、除草机器人等工业、农业领域机器人，以及其它机械化、自动化装置。<br/>2. 测控技术与智能系统。研究基于嵌入式微处理器的智能测控系统。<br/>3. 人工智能应用。融合深度学习与图像处理研究茶叶嫩芽识别、果蔬识别、农田/草坪等杂草识别，以及其它智能识别。<br/>4. 机械设计与仿真。进行机床、专用设备以及机器人末端执行器等研发等。<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104000423722ljxjwu.jpg?iid=36700"
+    },
+    {
+        "id": "0093",
+        "Name": "许蔷",
+        "Research_direction": "1.机械CAD/CAE<br/>2. 机械动力学分析<br/>3. 机械结构优化设计<br/>",
+        "img": "https://jidian.njfu.edu.cn/DFS//file/2021/11/04/20211104215328138b72agt.jpg?iid=36770"
+    }
+]

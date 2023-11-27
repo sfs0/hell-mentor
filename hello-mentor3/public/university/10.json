@@ -1,0 +1,758 @@
+[
+    {
+        "id": "0001",
+        "Name": "李媛媛",
+        "Research_direction": "布尔网络，代数数论与K理论",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/26/5c/21d3db54415599f64a72156ec23b/57214a6f-c101-471c-b701-8b67e744dc81_s.jpg"
+    },
+    {
+        "id": "0002",
+        "Name": "夏业茂",
+        "Research_direction": "统计",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/bc/93/d97cb2744c3ead3aa7912da204e1/4ad77c77-7b11-4fd2-82b5-8aeac5fb0f51_s.jpg"
+    },
+    {
+        "id": "0003",
+        "Name": "颜红彦",
+        "Research_direction": "切换系统、最优控制、不确定理论",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/eb/50/8c6f70404affb506973a4eb589b5/369d51b7-fc7d-4329-bfc7-1bb2338ebaa2_s.jpg"
+    },
+    {
+        "id": "0004",
+        "Name": "李本刚",
+        "Research_direction": "纳米纤维素复合材料；高强度功能性水凝胶材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/ae/f8/5f5023d346d4b77032531a189c74/c759383d-f41f-423e-8f91-637819aab4e6_s.jpg"
+    },
+    {
+        "id": "0005",
+        "Name": "陈磊",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/8f/b5/699c59b445138e999519c6fc312f/abc6017a-221e-45e4-9597-4640aa571fee_s.jpg"
+    },
+    {
+        "id": "0006",
+        "Name": "杨小飞",
+        "Research_direction": "能源化学；绿色催化；功能材料；纳米结构",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/08/b5/b96cd8dd4a4192b359e8384ce964/c600b007-eaa9-4da0-b475-b1f85ce72199_s.jpg"
+    },
+    {
+        "id": "0007",
+        "Name": "于莉莉",
+        "Research_direction": "光学  理论物理",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/ee/31/896780474807a4e9e39075754d16/2e82cef0-75eb-4b6a-b366-fdc5c90624f5_s.png"
+    },
+    {
+        "id": "0008",
+        "Name": "高燕",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/cf/fc/27ea41d14423b55b46de06101cb8/03f53f44-d9fe-48e8-a067-488a330c9f2b_s.jpg"
+    },
+    {
+        "id": "0009",
+        "Name": "朱敏",
+        "Research_direction": "偏微分方程、非线性分析、数学物理方程、可积性理论",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/97/fb/10dc4d344b5e90718ab87df8c85f/58d15501-64cc-445a-9e6c-d99094a0f1c8_s.jpg"
+    },
+    {
+        "id": "0010",
+        "Name": "龚浩",
+        "Research_direction": "电化学储能、金属空气电池、光电化学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/a7/8a/831a2d6e430898b585e0f6c4e0f6/f841e987-20c3-4d02-998a-6c732edb264f_s.jpg"
+    },
+    {
+        "id": "0011",
+        "Name": "卜晓莉",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/e0/3c/b1d031b34b578eafba452b4b818f/ebb68b30-9109-4a34-a41d-67b2891dd827_s.jpg"
+    },
+    {
+        "id": "0012",
+        "Name": "卢雯",
+        "Research_direction": "天然产物的结构修饰、配位组装、抗癌活性及光学活性研究",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/20/9a/8ae6895149e88460ef1af428f762/4ea290f2-7f0b-4220-8386-491ebfad8c3c_s.jpg"
+    },
+    {
+        "id": "0013",
+        "Name": "张樯",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/ac/a7/668a5d234690ae1c263d466944b9/53d24507-535d-4439-a64f-49d1f21e3672_s.jpg"
+    },
+    {
+        "id": "0014",
+        "Name": "雷文",
+        "Research_direction": "聚合物基复合材料，农残纤维资源化利用",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/98/d8/4912bdca4db7839750e93ad46675/f7c4e783-e04b-4dc8-bb87-3663b3b66424_s.jpg"
+    },
+    {
+        "id": "0015",
+        "Name": "何明",
+        "Research_direction": "功能高分子材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/61/89/28d2b22f4c01b649317cba96b9e6/5a6d063e-f6f1-493d-8402-542c05849fb0_s.png"
+    },
+    {
+        "id": "0016",
+        "Name": "孙建筑",
+        "Research_direction": "计算数学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/32/d6/45503dc240ed894856268fad1bc5/8bd18581-f9ff-4530-8817-fe3cede88bbb_s.jpg"
+    },
+    {
+        "id": "0017",
+        "Name": "肖宇",
+        "Research_direction": "稀土与过渡族发光材料与器件",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/fd/9d/02a8c96341039da249eab1c0c5ac/e2a2ca52-d335-40f9-ba86-bddaa0503bb1_s.jpg"
+    },
+    {
+        "id": "0018",
+        "Name": "张云秀",
+        "Research_direction": "分形几何",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/9d/a8/849e06384548808e52131920bc68/d7b3a339-b54a-4051-a694-9fe9897a72b9_s.jpg"
+    },
+    {
+        "id": "0019",
+        "Name": "阚春",
+        "Research_direction": "荧光材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/d4/a7/c5d56b414deda9b2dabdb7e4b902/69946c68-cf8e-4493-a97f-3d7d63c521b3_s.jpg"
+    },
+    {
+        "id": "0020",
+        "Name": "吕忠全",
+        "Research_direction": "数学教育，生物数学，计算数学  偏微分方程数值解，保结构算法",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/42/f8/22d99670471b9f83665452f37e07/bae56a3d-4923-48ed-91cd-bec03957d86f_s.jpg"
+    },
+    {
+        "id": "0021",
+        "Name": "丁明烨",
+        "Research_direction": "全天候宽光谱响应光催化材料、稀土发光材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/a4/32/8f0a9b264e2a8325eaa4ab97131c/2fe2fcd7-8189-497f-a427-209bee0dda20_s.jpg"
+    },
+    {
+        "id": "0022",
+        "Name": "张彩华",
+        "Research_direction": "无机化学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/5c/b3/c8e3e2284cd58139e0ebb0d6ea07/c30b0a8f-78d5-46dd-b4a6-cd03d4fb4219_s.jpg"
+    },
+    {
+        "id": "0023",
+        "Name": "胡涛平",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/92/6d/b514cdb44ecaaf2b503a4f17521a/2253e8ad-a9ef-4c83-9d49-981020138567_s.jpg"
+    },
+    {
+        "id": "0024",
+        "Name": "陆依",
+        "Research_direction": "太阳能光热转换、光热协同催化转换、红外辐射调控",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/12/13/2a8773ee431484ff734c5701e001/34c5ea17-eaef-40eb-8089-5ec3b1bb660a_s.jpg"
+    },
+    {
+        "id": "0025",
+        "Name": "彭红军",
+        "Research_direction": "运筹学、绿色供应链、碳汇金融",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/40/cb/eb717b7c420c981bf5458d51eb1b/d4331997-760e-480b-8bf8-860d85ae4e8d_s.jpg"
+    },
+    {
+        "id": "0026",
+        "Name": "王明慧",
+        "Research_direction": "生物医学传感",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/91/9c/187b7ef244769fa8f69421605c08/3993074d-7f7e-455a-8a27-5d811cf61e02_s.jpg"
+    },
+    {
+        "id": "0027",
+        "Name": "保进烽",
+        "Research_direction": "数学物理方程",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/9e/1e/c299eaa7404a98fb56e630ef7ce3/733da887-4702-4e8b-b895-27fc473da9bf_s.jpg"
+    },
+    {
+        "id": "0028",
+        "Name": "王晨",
+        "Research_direction": "组合数学、数论",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/f6/73/1d6e730d4353b1fff046f9dd8987/aa2c6f6d-0e35-480a-8150-1ce871d002f3_s.jpg"
+    },
+    {
+        "id": "0029",
+        "Name": "韩峰燕",
+        "Research_direction": "负载型贵金属复合纳米催化剂的设计合成及在水处理方面的应用",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/cb/78/ff94ffb74a69888956caeb1af896/f3c99af9-add7-43e6-b21c-16d48e4858a9_s.jpg"
+    },
+    {
+        "id": "0030",
+        "Name": "葛霄",
+        "Research_direction": "时滞系统稳定性、数值代数及其应用",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/e8/3f/5751882b455dadc1ae9c91c8f480/6cee6d32-45de-42cf-bcde-9b2c9ef1c2cd_s.jpg"
+    },
+    {
+        "id": "0031",
+        "Name": "齐保锋",
+        "Research_direction": "化学教育",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/ee/91/2b3c9c15414996aa4c47c5f84740/920ed4a6-287f-4374-b1df-6a04b875c5bc_s.jpg"
+    },
+    {
+        "id": "0032",
+        "Name": "刘钧",
+        "Research_direction": "高分子复合材料、软物质物理、仿生材料化学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/98/8b/dee360334159ac2a468b1b9eaddf/02ebfab4-2807-45a8-ae66-47a496406b4f_s.jpg"
+    },
+    {
+        "id": "0033",
+        "Name": "雷萌",
+        "Research_direction": "药物化学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/11/fe/814712cc4dd7875524ebf1a4fec0/67b234ba-e792-4d72-98f2-6bd7456ce33c_s.png"
+    },
+    {
+        "id": "0034",
+        "Name": "曹绪芝",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/60/21/e0b5a7ae4f53a9ed7ef184f06196/8c1d9fd6-fabc-4593-9457-08a61405856d_s.jpg"
+    },
+    {
+        "id": "0035",
+        "Name": "韩清志",
+        "Research_direction": "电化学分析、传感；多模式检测；多靶标检测.",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/6b/5b/7e419a4148d1ae5c7bca87a2bff9/6e8a7d23-462d-464a-8fb1-a235ea3d8fdc_s.jpg"
+    },
+    {
+        "id": "0036",
+        "Name": "马猛涛",
+        "Research_direction": "金属有机化学，有机催化",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/7c/1f/181de35b4a05888fd80b9980b00a/0e750792-6856-40a0-af30-a83ebc62ad68_s.jpg"
+    },
+    {
+        "id": "0037",
+        "Name": "勾建伟",
+        "Research_direction": "高维变量选择方法",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/89/dc/aa0c282b4c35946260d12742a33b/a906a1bc-bbce-404b-8e43-b283003f602c_s.jpg"
+    },
+    {
+        "id": "0038",
+        "Name": "夏兵",
+        "Research_direction": "生物纳米材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/2e/1d/79e73a3b4e7d91c5a90a06bf2f27/2825877b-3f1b-48c5-9360-340a4d49c473_s.jpg"
+    },
+    {
+        "id": "0039",
+        "Name": "魏伟",
+        "Research_direction": "数值代数",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/7f/89/aa26dc61431a80214bb74d3e5471/5e00dd19-a4bc-4fda-a813-7354c0e48eb1_s.jpg"
+    },
+    {
+        "id": "0040",
+        "Name": "马文",
+        "Research_direction": "代数组合与编码",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/7f/c3/a49034194ed1ba48d31f0357cd11/eda46348-47f1-4df6-ae3c-6861d9540b99_s.png"
+    },
+    {
+        "id": "0041",
+        "Name": "金婷",
+        "Research_direction": "分数阶微积分理论及其应用、可靠性理论及其应用、人工智能与树突神经网络",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/6e/49/b830325a416b87bf419f7bab2a49/62105647-05b8-471f-a768-3e8c1c5a2d44_s.png"
+    },
+    {
+        "id": "0042",
+        "Name": "池杏微",
+        "Research_direction": "实验教学、棉浆生产工艺",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/67/28/ed0f2a134457b745653574ce2316/ff36584a-cb09-4627-8848-bd515dbb6b69_s.jpg"
+    },
+    {
+        "id": "0043",
+        "Name": "周晓霞",
+        "Research_direction": "数值分析",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/22/7d/4cf05b154f2b8e2474e8e0e0f3d3/db566a66-7643-4cbd-b20c-ab349a5e01ee_s.jpg"
+    },
+    {
+        "id": "0044",
+        "Name": "杨柳青",
+        "Research_direction": "人工光合成材料的设计制备及性能优化",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/91/6e/daf84c9c46b494e676b80c3ef483/f4135575-d072-4f84-adcf-deed5f78fe15_s.jpg"
+    },
+    {
+        "id": "0045",
+        "Name": "缪红益",
+        "Research_direction": "计算数学，中学数学教材教法",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/e0/5f/0542a2264cc68e96d883736c7b27/f95a95c7-6a94-497c-9012-31199cc283f2_s.png"
+    },
+    {
+        "id": "0046",
+        "Name": "林杨帆",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/c9/36/b81292a546e387f97f0b10706713/d1e4142d-1adb-40af-8778-62907aa25426_s.jpg"
+    },
+    {
+        "id": "0047",
+        "Name": "唐向阳",
+        "Research_direction": "有机光电材料与器件",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/d6/0d/f6b9f1d34f56a6987d0082a10c62/4faa8471-5dab-4e00-81d2-bffad8d02522_s.jpg"
+    },
+    {
+        "id": "0048",
+        "Name": "吴文娟",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/d9/48/4abb3e3d402b9591ed1ef065cc27/eae13e42-cdb8-446f-a51f-fdcfaf5707f9_s.jpg"
+    },
+    {
+        "id": "0049",
+        "Name": "陈鑫",
+        "Research_direction": "机会理论、最优控制理论、博弈论",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/a8/b0/ba77071d4058bb69d73539213e2f/3209fdc0-bb36-458a-b6bb-8db7aedbff31_s.jpg"
+    },
+    {
+        "id": "0050",
+        "Name": "王小青",
+        "Research_direction": "功能光学材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/b7/95/f2c8343248c9981058ec721890ac/55be6e2b-d9df-4413-b697-93b379849694_s.jpg"
+    },
+    {
+        "id": "0051",
+        "Name": "石小平",
+        "Research_direction": "代数编码",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/d2/a8/868ec841448caf420b42a6aa00dd/bb09bf3c-e846-4800-9ec5-772df1b9a8e1_s.jpg"
+    },
+    {
+        "id": "0052",
+        "Name": "李赛",
+        "Research_direction": "非线性偏微分方程",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/88/54/9ce9f8b9433abd0d25d215d9160e/85442bc2-65b2-4ff1-9fb5-6fc0b14d7959_s.jpg"
+    },
+    {
+        "id": "0053",
+        "Name": "邬良春",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/d2/1f/2f9e86ad4f07b699db3742bb0068/8501ecec-362c-4d59-b697-5f7dfe077aad_s.jpg"
+    },
+    {
+        "id": "0054",
+        "Name": "吴凯利",
+        "Research_direction": "同调代数与代数表示理论",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/e0/67/c44561294d96a27a8d12b93058d0/7ff3efc6-1247-493e-8fc4-0208ae83491d_s.jpg"
+    },
+    {
+        "id": "0055",
+        "Name": "杨    杰",
+        "Research_direction": "超分子化学、高分子生物材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/71/cf/6f9260aa4fa590e497b91bc4b386/c21f0d3b-f3bf-4cd4-b4ac-95fa10c25e3f_s.jpg"
+    },
+    {
+        "id": "0056",
+        "Name": "王小宇",
+        "Research_direction": "纳米酶、仿生纳米医药",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/b7/fa/67ded8c042f5b942de78552deed5/46adec93-9f73-4c03-a9bc-a68de591fcb5_s.jpg"
+    },
+    {
+        "id": "0057",
+        "Name": "徐航天",
+        "Research_direction": "高分子材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/41/1f/930436a04ad9bcb97e60dca31201/252e37b3-2c25-4240-bda2-c7e98c531838_s.png"
+    },
+    {
+        "id": "0058",
+        "Name": "梁锦浩",
+        "Research_direction": "动力系统，数学物理",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/92/aa/2fda0ab14c218d43891f7d8a3c2f/18f1be37-b250-41d9-8879-abc856e23ad8_s.jpg"
+    },
+    {
+        "id": "0059",
+        "Name": "张林",
+        "Research_direction": "凝聚态物理学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/ad/9f/f63362d54947b3618ccb0e900f1b/d93ca794-f526-4b2d-be28-ff03e669af87_s.jpg"
+    },
+    {
+        "id": "0060",
+        "Name": "袁秀华",
+        "Research_direction": "图论",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/47/85/29b08c2a43cf80324811aba38b46/632c25d2-988a-4e85-98ed-a3a3897f8a0d_s.jpg"
+    },
+    {
+        "id": "0061",
+        "Name": "赵斌林",
+        "Research_direction": "有机合成方法学研究（光催化、金属催化、自由基化学）",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/02/90/2c0d223c4878a9fabae738f9c677/e2245cff-e2d1-4d91-bd99-e344743ad730_s.jpg"
+    },
+    {
+        "id": "0062",
+        "Name": "罗艳龙",
+        "Research_direction": "弹性高分子材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/98/76/69c2f0614992a4c24b9830d1c83a/d564ea41-3287-4c7d-8e02-3c296aea75c1_s.jpg"
+    },
+    {
+        "id": "0063",
+        "Name": "罗振扬",
+        "Research_direction": "高分子多相结构与性能，生物质高分子材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/1a/92/1d9b8ebe4bcead37cb3cf6a08a45/4816533d-0e4b-400d-b145-24a0ada94483_s.jpg"
+    },
+    {
+        "id": "0064",
+        "Name": "何裕成",
+        "Research_direction": "高分子结晶和流变行为",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/1b/f2/21e9eb4a4e05a7b7d09ecfbc7e90/a0ae9bf8-f609-422f-b946-ed6f97b1b0e2_s.jpg"
+    },
+    {
+        "id": "0065",
+        "Name": "汤笑",
+        "Research_direction": "计算化学与物理、二维材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/42/e7/48cd398a4d33a07859590a6caf58/c90069a5-4e8a-4606-adbc-4e2cc6f24518_s.jpg"
+    },
+    {
+        "id": "0066",
+        "Name": "张爱珍",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/7c/cc/a26223174334b635adbc1f5ecb45/45ea5564-5915-46d9-90ae-9832ab0636b8_s.jpg"
+    },
+    {
+        "id": "0067",
+        "Name": "卢雪",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/5f/a1/a078111d44b3a79f953ebbd34aad/f8e1296d-11d2-4d85-aa5e-6c111e270dae_s.jpg"
+    },
+    {
+        "id": "0068",
+        "Name": "喻孜",
+        "Research_direction": "理论物理",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/71/40/a63d2eb64150a7b9b9753b5be4ef/05cff1ea-9ef9-4030-9e9b-e35986697b3b_s.jpg"
+    },
+    {
+        "id": "0069",
+        "Name": "韩鑫鑫",
+        "Research_direction": "随机偏微分系统稳定与镇定、边界控制、鲁棒控制等",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/c1/a7/5c04bdc7448eb943ae43ba1ba1e5/856940b6-62bf-407b-b6da-f8fa4bdffe4e_s.jpg"
+    },
+    {
+        "id": "0070",
+        "Name": "相波",
+        "Research_direction": "光热功能复合材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/45/33/5f1479b545139bae6427a72d5515/057e9cf4-ba7c-4919-a2db-3faa1bcb626f_s.jpg"
+    },
+    {
+        "id": "0071",
+        "Name": "张荣",
+        "Research_direction": "光热功能材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/11/8e/6a1135c3418fb4826560943456ea/ac780441-a974-4d18-9eea-fd1a53ba2612_s.jpg"
+    },
+    {
+        "id": "0072",
+        "Name": "翟方曼",
+        "Research_direction": "多尺度计算和建模",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/e7/d8/0c9a0d954f7f83973b9c7e68d1b2/9f2c48b6-a5b7-4a47-9e39-a48a04750894_s.jpg"
+    },
+    {
+        "id": "0073",
+        "Name": "胡琴",
+        "Research_direction": "常微分方程",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/33/e4/b9e082d2426b896ec3a5830c44d6/7817fae7-4c0a-48bc-85b9-1d9accecfb3d_s.jpg"
+    },
+    {
+        "id": "0074",
+        "Name": "马晓峰",
+        "Research_direction": "智能高分子材料，高分子改性",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/37/65/fb84c9354a4f980588c1d8a8855f/05bc3b5e-434d-4b76-8be4-0db7567ba3ba_s.jpg"
+    },
+    {
+        "id": "0075",
+        "Name": "沙野",
+        "Research_direction": "刺激响应高分子",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/d7/ca/67241e834b77839a5ada600ec82e/48527b45-9a3f-41c0-bb67-00581a0fc315_s.jpg"
+    },
+    {
+        "id": "0076",
+        "Name": "陶昉昀",
+        "Research_direction": "运筹学与控制论",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/9a/51/8de232584331a2acd758800f6d53/fb220fae-602d-432f-b351-965d88dc4a35_s.jpg"
+    },
+    {
+        "id": "0077",
+        "Name": "薛飞",
+        "Research_direction": "1、绿色有机化学（有机电化学及自由基化学） 2、过渡金属催化的不对称反应 3、流动化学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/82/77/56e831bb4e79a5f34ff2c4bdab69/f91893ee-985a-4c04-a86c-43f62cbb1d75_s.jpg"
+    },
+    {
+        "id": "0078",
+        "Name": "齐玮玮",
+        "Research_direction": "微分方程及其应用",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/a4/c8/341ddef54b29b837c32cda22a997/41b63be0-5a10-48bc-bd1c-948d9b7be9d1_s.jpg"
+    },
+    {
+        "id": "0079",
+        "Name": "朱德刚",
+        "Research_direction": "应用统计、机器学习",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/57/bb/83be45ac4a6d918183aad92395d8/f3c91238-bfff-4c54-b19e-4818f15784b2_s.jpg"
+    },
+    {
+        "id": "0080",
+        "Name": "濮兴庭",
+        "Research_direction": "物理",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/21/4d/d47e556044a4bca791fc051750c7/906353da-0333-474b-8916-740610df9ce3_s.png"
+    },
+    {
+        "id": "0081",
+        "Name": "蒋华松",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/20/36/ddc90b7746dc973a50602b47841a/5c26fd26-e0e7-43b6-9a1c-a926873e1e31_s.png"
+    },
+    {
+        "id": "0082",
+        "Name": "马培",
+        "Research_direction": "非线性泛函分析",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/9f/ab/c79a27504ed4b1995956b1cab538/7da07d58-8beb-44af-a747-811e9beb9adc_s.jpg"
+    },
+    {
+        "id": "0083",
+        "Name": "尹寿银",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/d6/b5/21abcb014f52a386b363ad0834f6/8d5a0dde-20e8-4194-8b52-bae3fd051e04_s.png"
+    },
+    {
+        "id": "0084",
+        "Name": "肖卫平",
+        "Research_direction": "能量转换纳米材料、电催化、燃料电池",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/1d/38/578ffa0549db9121d70858c245f8/47310e3c-6a36-4df8-824b-a937a82540df_s.jpg"
+    },
+    {
+        "id": "0085",
+        "Name": "骆敏",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/be/8f/8c93b0d74ee0a7d45ab70cc5ea54/17ef3430-aedc-454e-bb90-6781ab2cdf73_s.jpg"
+    },
+    {
+        "id": "0086",
+        "Name": "徐定",
+        "Research_direction": "物理学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/38/27/1e53cfa44ffbb55570c8b9858508/c0ba9e3a-85c9-4696-a456-d62d8b54c556_s.jpg"
+    },
+    {
+        "id": "0087",
+        "Name": "于波",
+        "Research_direction": "润滑材料与技术，材料表界面损伤失效的防护与监测技术",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/49/72/efd5a2e64c76a3821bf4be518173/aae6ebf4-3c61-49d8-aad6-08fe023c2998_s.jpg"
+    },
+    {
+        "id": "0088",
+        "Name": "王秀荣",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/a2/94/fec9fa954d93ab6b478fc6fc277b/9d1694f4-7946-44ea-bd4e-1a603ff07b14_s.jpg"
+    },
+    {
+        "id": "0089",
+        "Name": "宋逸夫",
+        "Research_direction": "偏微分方程数值解",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/88/ba/78feafe84730b7d999e647da94ef/013a4319-442e-4e3d-b3c0-b740911560c2_s.jpg"
+    },
+    {
+        "id": "0090",
+        "Name": "宋伟灵",
+        "Research_direction": "代数表示论、同调代数",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/ef/1b/69de5d914f4fb787d00deddaa625/eafe366a-e102-4de2-aa39-f31cb876d44c_s.jpg"
+    },
+    {
+        "id": "0091",
+        "Name": "戴国伟",
+        "Research_direction": "图与超图、图神经网络、网络优化",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/87/cd/29b92f0c442d9ca2c9e19c28ec1c/83610f5c-34fc-4545-8dfd-7df357de69e1_s.png"
+    },
+    {
+        "id": "0092",
+        "Name": "方华",
+        "Research_direction": "理论计算",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/8c/15/c7e47a5f4fbbbd2c84da58e3e8e3/bae546b8-c49b-46fe-8287-4dd143cd365a_s.jpg"
+    },
+    {
+        "id": "0093",
+        "Name": "徐爱军",
+        "Research_direction": "一般拓扑学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/81/e0/17f823b94737b0a8761a090343d5/a7af8b3c-df5c-4c37-a25d-e7d4f928eb54_s.jpg"
+    },
+    {
+        "id": "0094",
+        "Name": "宰德欣",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/9d/e8/df199b284004a646247ea416936a/e4fced77-8609-40a8-984b-54413a133709_s.png"
+    },
+    {
+        "id": "0095",
+        "Name": "余观夏",
+        "Research_direction": "电磁场和微波技术，木材物理",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/48/ab/96f35ef647cb9262e8d3f4455944/875f118d-1cb1-430b-bbd9-85a01b2591d4_s.jpg"
+    },
+    {
+        "id": "0096",
+        "Name": "郑晶",
+        "Research_direction": "电化学储能",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/f7/7f/b6a001b14682b15da76890abf11b/0ead3252-2745-402d-8cb9-bb5f68f418b2_s.jpg"
+    },
+    {
+        "id": "0097",
+        "Name": "李格非",
+        "Research_direction": "糖化学、化学生物学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/51/a0/59d848804951b40302f4cd1d937b/f818311d-a7ff-4a26-b54e-ea25c065445a_s.jpg"
+    },
+    {
+        "id": "0098",
+        "Name": "宋飞",
+        "Research_direction": "多尺度问题的分析与计算、基于数据驱动的建模方法等",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/75/69/6b90aac449bebb873eea73dfabc5/cd50ac03-54f0-49f1-84cc-1b1e72c7f6c9_s.jpg"
+    },
+    {
+        "id": "0099",
+        "Name": "郭利娟",
+        "Research_direction": "数学物理、可积系统、偏微分方程",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/3e/a6/0f3176844804a0c2bba869c7febc/fbc9b98a-9283-47fe-9916-a16b7c1d8a67_s.jpg"
+    },
+    {
+        "id": "0100",
+        "Name": "赵呈孝",
+        "Research_direction": "光催化物质转化",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/da/d6/5e57cc54430c8dd8d3e9f304c133/8e502981-c6bf-4cc4-aede-91c0f4fc8882_s.jpg"
+    },
+    {
+        "id": "0101",
+        "Name": "银鹏",
+        "Research_direction": "生物基抗菌复合材料、蛋白质互作机制",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/12/10/84f0aa274c4e9cc052f7ff2ba233/9edbacf8-ac94-4968-84b3-dde1c50fe88a_s.jpg"
+    },
+    {
+        "id": "0102",
+        "Name": "周帅",
+        "Research_direction": "智能高分子，电子皮肤，软体机器人",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/ab/76/907003e3498ab563c64aff3c179e/06621a0d-bb17-4f9d-aea9-0493908b618c_s.jpg"
+    },
+    {
+        "id": "0103",
+        "Name": "张训华",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/46/93/e948a9654f8aa2da7a48a39d58c4/7ed185f3-da65-4663-875c-c9f3110888fb_s.jpg"
+    },
+    {
+        "id": "0104",
+        "Name": "陈晓燕",
+        "Research_direction": "环境功能材料——环境分析、污染控制",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/76/f5/25e5149d42d9a8a7ccdf7c1c5206/ada1d105-5ed2-497c-95b7-50cef6d9c5e2_s.jpg"
+    },
+    {
+        "id": "0105",
+        "Name": "吴岸",
+        "Research_direction": "有机方法学/多肽化学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/af/0f/546307e147cd9b2025913b80138d/f26f2749-cec0-4c6e-90cd-85bd6d67ce8d_s.jpg"
+    },
+    {
+        "id": "0106",
+        "Name": "杨洁",
+        "Research_direction": "黄素蛋白电子转移动力学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/9c/85/6401e86d4920a167d0bb2ff72a2f/cfd34912-3913-47e4-a631-70d60ffd8680_s.jpg"
+    },
+    {
+        "id": "0107",
+        "Name": "李文卓",
+        "Research_direction": "功能材料、生物质废弃物转化及利用、液体地膜、分子模拟",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/e5/bd/0508c1f14e52aa4274612f71dd67/38349626-f991-425f-9506-827a8dc7989d_s.jpg"
+    },
+    {
+        "id": "0108",
+        "Name": "王燕芹",
+        "Research_direction": "有机合成、生物高分子材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/39/52/b9b4f5ad46d5b45b4b594429944c/19389bc7-dabd-4164-b672-6e8819f06249_s.jpg"
+    },
+    {
+        "id": "0109",
+        "Name": "韩秋红",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/b0/4d/d5ca6d3640bcbfe796414cf0035d/303b5b39-6d09-4c64-a2f4-1e20a1832eec_s.jpg"
+    },
+    {
+        "id": "0110",
+        "Name": "杨明辉",
+        "Research_direction": "数学",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/5a/fa/1b9162f749129e766d296178ffdf/8653c2a0-9f83-494e-b84f-b083b3614977_s.jpg"
+    },
+    {
+        "id": "0111",
+        "Name": "任百林",
+        "Research_direction": "模糊数学、数学建模、程序设计",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/6d/d2/0cb54f314bf497170f888001cd3f/efac394e-eee0-4fb8-b82b-92be3d1bf7a7_s.jpg"
+    },
+    {
+        "id": "0112",
+        "Name": "黄佩奇",
+        "Research_direction": "有限元方法，多物理场耦合等应用问题的数值计算方法",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/c2/a3/fcd7cf4c4e188c05656e0a0d33c2/7c863e46-c796-4253-a21b-69d5a02667da_s.jpg"
+    },
+    {
+        "id": "0113",
+        "Name": "梁欢",
+        "Research_direction": "超分子功能材料、智能纳米药物",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/2e/35/afecee674330915e584e802105d6/473cc772-1322-44bd-b0e3-182d59ab34ea_s.jpg"
+    },
+    {
+        "id": "0114",
+        "Name": "苏峻",
+        "Research_direction": "生物物理学、化学生态学、仪器仪表、自动化",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/8a/12/89e53bd54558b217f202905ef6ef/6652c401-c30b-447e-8354-bd462b5afaae_s.jpg"
+    },
+    {
+        "id": "0115",
+        "Name": "樊继山",
+        "Research_direction": "偏微分方程",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/ef/de/bdb0fa4944adad2a62440afb4d7e/4b07514c-b492-4832-98b9-a7512961c14b_s.jpg"
+    },
+    {
+        "id": "0116",
+        "Name": "陈放",
+        "Research_direction": "风险管理，统计机器学习",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/b7/0b/cdebcb05439ab3a0de7a325c3ad6/004e50db-0541-449d-9d2f-5ce66d44fd69_s.jpg"
+    },
+    {
+        "id": "0117",
+        "Name": "李梦瑶",
+        "Research_direction": "统计物理及凝聚态物理",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/08/b3/d7809c8c41a5820590bf9399168c/17f3ec97-0396-4df5-aa7e-4f139296be29_s.jpg"
+    },
+    {
+        "id": "0118",
+        "Name": "王文涛",
+        "Research_direction": "生物相容性纳米材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/8c/04/cc76a9ff4820a3c9b25879469110/e608eb52-6092-4242-b178-23561b0e2592_s.jpg"
+    },
+    {
+        "id": "0119",
+        "Name": "陈泳",
+        "Research_direction": "",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/a8/5f/cfdcdca94db38a3971213d5c496b/0f42ca67-3e8e-47ed-9e42-a667d070096c_s.jpg"
+    },
+    {
+        "id": "0120",
+        "Name": "夏康",
+        "Research_direction": "凝聚态物理计算物理",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/4f/92/ac7051ed4b96ad64edd74bb81651/0abaa92b-142c-457a-831a-9513a9c40afb_s.jpg"
+    },
+    {
+        "id": "0121",
+        "Name": "张倩",
+        "Research_direction": "多孔碳纳米复合材料储能性能",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/ac/32/4dd6d7014fa1825c50b5005fe62e/c4c2a79a-d215-4d39-872b-fb3ccbc20984_s.jpg"
+    },
+    {
+        "id": "0122",
+        "Name": "林林",
+        "Research_direction": "单相多铁性材料与物理，磁电耦合效应与多铁相变，基于3d-4d过渡金属量子材料的单晶生长和物性",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/65/04/fc27eb574aad8be12d8c135d6287/373c604e-a298-4514-9bc0-be7a2da75ba6_s.jpg"
+    },
+    {
+        "id": "0123",
+        "Name": "王彩琴",
+        "Research_direction": "电催化",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/42/56/a59a9a71475e9583043ee102ee25/b28fff31-1681-4f14-bddf-78593966b3e1_s.png"
+    },
+    {
+        "id": "0124",
+        "Name": "郭斌",
+        "Research_direction": "天然高分子，生物降解塑料，复合材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/f6/f5/28de8a1c402e973750f61a84ce17/d8fe13ac-3ed9-48bb-b059-dff6b602a6a2_s.jpg"
+    },
+    {
+        "id": "0125",
+        "Name": "徐莉",
+        "Research_direction": "天然分子筛选与设计合成",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/b2/2c/050e7fe94049ae408c08bb484402/36e306e1-2db8-44ea-9fc7-a67c49ce835d_s.jpg"
+    },
+    {
+        "id": "0126",
+        "Name": "黄洋",
+        "Research_direction": "生物质功能材料",
+        "img": "https://cos.njfu.edu.cn/_upload/article/images/e1/fe/9976d39048708879e9de8143e19b/918c6f76-0e2f-4b09-b607-0de3fd99d7ed_s.jpg"
+    }
+]

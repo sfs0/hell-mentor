@@ -1,0 +1,350 @@
+[
+    {
+        "id": "0001",
+        "Name": "陈于书",
+        "Research_direction": "1.家具的CMF设计研究；2.家具用户偏好研究；3.学校家具设计研究。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181425284692scda4.jpg?iid=47302"
+    },
+    {
+        "id": "0002",
+        "Name": "关惠元",
+        "Research_direction": "主要研究方向有家具结构设计、感性工学、人体工程学。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142529816sq9ltd.jpg?iid=47311"
+    },
+    {
+        "id": "0003",
+        "Name": "李　军",
+        "Research_direction": "家具门窗企业的智能智造一体化。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/19/20220819182618591mh9ikh.jpg?iid=47400"
+    },
+    {
+        "id": "0004",
+        "Name": "吕九芳",
+        "Research_direction": "目前主要从事中西方传统家具风格与艺术、古旧家具修复与保护、家具史、中国传统家具、传统家具鉴定与评价、中国传统家具榫卯结构、中国传统家具装饰图案、家居文创产品研发、现代家居产品的设计与智造等领域的教学与科研工作。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142716268pyzlcl.jpg?iid=47323"
+    },
+    {
+        "id": "0005",
+        "Name": "申黎明",
+        "Research_direction": "家具与室内设计人类工效学，家具工业工程",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142715686a4q23h.jpg?iid=47319"
+    },
+    {
+        "id": "0006",
+        "Name": "王玮",
+        "Research_direction": "文化产业研究、智能家具设计、旅游文创产品设计、工业设计与理论研究、产品艺术设计、景观规划研究与设计、城市绿道设计。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142356207dg9m73.jpg?iid=47296"
+    },
+    {
+        "id": "0007",
+        "Name": "吴燕 ",
+        "Research_direction": "家居材料绿色制造、水性木器涂料与绿色涂装、木质家居新材料。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181421057877djh26.jpg?iid=47286"
+    },
+    {
+        "id": "0008",
+        "Name": "吴智慧",
+        "Research_direction": "主要从事家具设计与制造、家具智能制造与绿色制造、家居企业信息化工程、家居与室内装饰、传统家具风格与艺术、家具文化与家居产业、木竹制品加工、工业设计与文化创意等方面的教学科研、技术服务等工作。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142246997uepvii.jpg?iid=47293"
+    },
+    {
+        "id": "0009",
+        "Name": "",
+        "Research_direction": "",
+        "img": "https://jiaju.njfu.edu.cn"
+    },
+    {
+        "id": "0010",
+        "Name": "徐伟",
+        "Research_direction": "（1）家具智能制造技术；（2）绿色家居及装饰技术。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/19/202208190818585641rhp4n.jpg?iid=47376"
+    },
+    {
+        "id": "0011",
+        "Name": "熊先青",
+        "Research_direction": "家居智能制造、家居绿色制造、家具与木制品工艺、智能家居",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/22/20220822084914743hvhrvr.jpg?iid=47433"
+    },
+    {
+        "id": "0012",
+        "Name": "杨琳",
+        "Research_direction": "1.家具设计与制造工艺；2.木质基材料的干燥与改性；3.木质基新材料的制备及应用。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142715845bx9zxw.jpg?iid=47320"
+    },
+    {
+        "id": "0013",
+        "Name": "于娜",
+        "Research_direction": "1、家具与工业设计2、人体工程学/人机工程学3、人因与智能交互4、健康与智慧家居5、适老与无障碍设计教学主要承担《人体工程学》、《人机工程学》、《家居无障碍设计》等本科课程和《产品交互设计》、《人因工程创新设计》、《家具工业工程》、《Ergonomics》等硕士、博士研究生课程。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142716553xz4qte.jpg?iid=47325"
+    },
+    {
+        "id": "0014",
+        "Name": "郁舒兰",
+        "Research_direction": "智能家居产品与服务设计研究、数字技术与数字展示艺术研究、产品形态语意研究、用户体验研究等。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181426062565kvh7j.jpg?iid=47315"
+    },
+    {
+        "id": "0015",
+        "Name": "闫小星",
+        "Research_direction": "家具木制品涂料与涂装",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142150494uz5gyg.jpg?iid=47290"
+    },
+    {
+        "id": "0016",
+        "Name": "周橙旻",
+        "Research_direction": "主要从事家居设计与工程相关教学、科研、设计实务和企业培训等工作，研究方向包括智慧康养家居设计科学与交互技术研究；生态康养家具与可持续发展设计研究；物联云协同家居全案设计与工程实践；古典家具文化信息可视化创新研究与实践（包括小程序/APP/H5/新媒体公众号等）；家居CMF设计流行趋势研究与实践；家具品牌形象策划设计与系统开发；家居展示软装设计(实体展示和虚拟VR/AR)；家居领域国际化设计人才培养等方面。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142529682mat1a8.jpg?iid=47310"
+    },
+    {
+        "id": "0017",
+        "Name": "朱剑刚",
+        "Research_direction": "(1) 绿色家居产品；(2) 家具智能制造。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/23/20220823105426016h6x8hq.jpg?iid=47453"
+    },
+    {
+        "id": "0018",
+        "Name": "",
+        "Research_direction": "",
+        "img": "https://jiaju.njfu.edu.cn"
+    },
+    {
+        "id": "0019",
+        "Name": "陈　红",
+        "Research_direction": "主要从事竹材在家居中的应用研究，具体研究方向：1、绿色竹家居材料；2、竹家具制造工艺；3、传统竹工艺与竹文化。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2023/02/13/20230213174401909nqbzg7.jpg?iid=54698"
+    },
+    {
+        "id": "0020",
+        "Name": "方　露",
+        "Research_direction": "家具设计与工程",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142105637av5r98.jpg?iid=47285"
+    },
+    {
+        "id": "0021",
+        "Name": "顾颜婷",
+        "Research_direction": "（软体、竹藤）家具材料、结构与绿色制造。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/2022081814210488593q7jh.jpg?iid=47280"
+    },
+    {
+        "id": "0022",
+        "Name": "胡文刚",
+        "Research_direction": "本人主要从事家具设计及理论的研究，具体研究内容包括：1）家具结构设计，2）家具力学测试与分析，3) 计算机辅助设计与工程在家居产品中的应用（数字化设计），4）家具新材料开发与利用，家具人体工程学（生物力学）等。共发表家具相关研究论文40余篇，其中SCI收录30篇，中文核心收录10篇。主讲课程包括《木家具结构设计》、《全屋家具系统设计》、《Furniture Structure》等。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142528907sjvivu.jpg?iid=47305"
+    },
+    {
+        "id": "0023",
+        "Name": "金　冬",
+        "Research_direction": "1、混合载体的信息与交互设计2、智能产品信息适老化设计3、社会学视阈下智慧养老服务体系设计4、多模态感知的产品CMF设计",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2023/02/13/20230213171023444ll59q3.jpg?iid=54696"
+    },
+    {
+        "id": "0024",
+        "Name": "刘洪海",
+        "Research_direction": "木材干燥与材性改良；木制品加工工艺",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142106196eujees.jpg?iid=47289"
+    },
+    {
+        "id": "0025",
+        "Name": "李　晶",
+        "Research_direction": "主要研究方向为人机交互设计，人机界面信息编码的认知负荷研究。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181426063988ebxki.jpg?iid=47316"
+    },
+    {
+        "id": "0026",
+        "Name": "李若辉",
+        "Research_direction": "服务设计，设计战略与管理，用户体验与信息交互设计",
+        "img": "https://jiaju.njfu.edu.cn"
+    },
+    {
+        "id": "0027",
+        "Name": "李荣荣",
+        "Research_direction": "（1）家居产品智能制造技术与装备：机器视觉技术、家具制造装备TPM与OEE等。（2）家具与木制品工程：木家具制造工艺与生产线优化等。（3）木质材料先进制造技术：木竹材料激光加工技术、激光诱导改性技术、家具材料加工能耗监测与优化。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142105491ph92ye.jpg?iid=47284"
+    },
+    {
+        "id": "0028",
+        "Name": "刘  玮",
+        "Research_direction": "产品设计及理论、人因工程与用户体验、服务设计",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/2022081809442399435mt4y.jpg?iid=47297"
+    },
+    {
+        "id": "0029",
+        "Name": "刘新有",
+        "Research_direction": "古旧家具修复与保护；中外传统家具；家具材料时效性。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181427164038sekwj.jpg?iid=47324"
+    },
+    {
+        "id": "0030",
+        "Name": "孟晓轲",
+        "Research_direction": "思想政治教育；高校共青团工作；高等学校教育管理",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/11/06/20221106205341545hpqwkn.jpg?iid=51487"
+    },
+    {
+        "id": "0031",
+        "Name": "苗艳凤",
+        "Research_direction": "家具设计理论研究与实践；产品感性工学研究；",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181425287739idfbp.jpg?iid=47304"
+    },
+    {
+        "id": "0032",
+        "Name": "祁忆青",
+        "Research_direction": "家具制造工程、家具表面涂饰与装饰研究、家具材料表面染色处理；家具生产过程中有害物释放控制研究。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181421050297s78c6.jpg?iid=47281"
+    },
+    {
+        "id": "0033",
+        "Name": "任新宇",
+        "Research_direction": "产品整合创新、体验与交互设计、设计文化及其传播",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142357015tesd6t.jpg?iid=47301"
+    },
+    {
+        "id": "0034",
+        "Name": "王雪花",
+        "Research_direction": "木竹材定型工艺研究木竹材高效加工木竹材性能改良及建筑/家居应用",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/2022081814210518427dw73.jpg?iid=47282"
+    },
+    {
+        "id": "0035",
+        "Name": "钟世禄",
+        "Research_direction": "家具设计与工程领域(1. 家具高端定制； 2. 计算机辅助设计与工程（数字化设计与制造、仿真分析）； 3. 人体工程学； 4. 家具制造信息化管理）。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142715506p8abv5.jpg?iid=47318"
+    },
+    {
+        "id": "0036",
+        "Name": "赵中元",
+        "Research_direction": "1 木材绿色胶接技术研究2 木材流变与模压成型技术研究3 家具大数据与消费行为分析研究4 功能性家居复合材料研究",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/17/202208171149378091t5ar9.jpg?iid=47263"
+    },
+    {
+        "id": "0037",
+        "Name": "陈　晨",
+        "Research_direction": "工业设计，产品设计",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142355858r8zzcv.jpg?iid=47294"
+    },
+    {
+        "id": "0038",
+        "Name": "蔡晨阳",
+        "Research_direction": "木材物理、木材改性",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142528629syl98j.jpg?iid=47303"
+    },
+    {
+        "id": "0039",
+        "Name": "曹坤丽",
+        "Research_direction": "家居智能制造、3D打印、多功能传感器。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2023/03/30/20230330154401121bd324e.jpg?iid=57206"
+    },
+    {
+        "id": "0040",
+        "Name": "杜　游",
+        "Research_direction": "",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181427159913asma3.jpg?iid=47321"
+    },
+    {
+        "id": "0041",
+        "Name": "付伟莲",
+        "Research_direction": "1. 户外家具结构设计研究2. 家居产品生物力学研究3. 家居产品感性工学研究4. 环保家居材料开发与应用研究",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2023/03/30/20230330160856358vd3817.jpg?iid=57210"
+    },
+    {
+        "id": "0042",
+        "Name": "冯鑫浩",
+        "Research_direction": "主要从事木材功能性改良、3D打印纳米复合材料、木制品表面装饰等方面的研究工作。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/23/20220823092346038bb3b5m.jpg?iid=47451"
+    },
+    {
+        "id": "0043",
+        "Name": "富艳春",
+        "Research_direction": "木材物理、木材功能性改良、木质资源高效利用",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142529480dqqbck.jpg?iid=47309"
+    },
+    {
+        "id": "0044",
+        "Name": "高　娃",
+        "Research_direction": "主要从事人机交互及设计学交叉、智能家居及相关产品设计、体感交互设计等方面研究。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181426057636btueh.jpg?iid=47312"
+    },
+    {
+        "id": "0045",
+        "Name": "靳文奎",
+        "Research_direction": "主要从事交互设计、产品设计、人体工学设计相关理论和实践研究。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142605955t23i94.jpg?iid=47313"
+    },
+    {
+        "id": "0046",
+        "Name": "连彩萍",
+        "Research_direction": "竹材材性、竹家具制品的环境学特性",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/23/202208231527461365242cx.jpg?iid=47457"
+    },
+    {
+        "id": "0047",
+        "Name": "刘俊哲",
+        "Research_direction": "设计文化，地域振兴",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181423566884895w5.jpg?iid=47299"
+    },
+    {
+        "id": "0048",
+        "Name": "廖晓梅",
+        "Research_direction": "",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/2022081814271612966x1r6.jpg?iid=47322"
+    },
+    {
+        "id": "0049",
+        "Name": "刘　祎",
+        "Research_direction": "家具与木制品表面绿色装饰技术（结构色）；家具与木制品生命周期评价和碳足迹研究（LCA）；家具智能制造",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181421060676zvinb.jpg?iid=47288"
+    },
+    {
+        "id": "0050",
+        "Name": "刘遵月",
+        "Research_direction": "品牌战略设计, 文创产品设计，家具与室内设计",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/202208181423563674mea9w.jpg?iid=47298"
+    },
+    {
+        "id": "0051",
+        "Name": "苏  娜",
+        "Research_direction": "竹家居设计、竹家具材料天然防护、人体工程学",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2023/03/30/20230330162327636zdq2fp.jpg?iid=57214"
+    },
+    {
+        "id": "0052",
+        "Name": "桑瑞娟",
+        "Research_direction": "",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142529194pz8zjt.jpg?iid=47307"
+    },
+    {
+        "id": "0053",
+        "Name": "王　华",
+        "Research_direction": "家具设计与工程，传统家具风格与艺术。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142529058mp3a29.jpg?iid=47306"
+    },
+    {
+        "id": "0054",
+        "Name": "杨子倩",
+        "Research_direction": "家具设计，数据与智能创新应用设计",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142529332ps32c3.jpg?iid=47308"
+    },
+    {
+        "id": "0055",
+        "Name": "张　晶",
+        "Research_direction": "主要研究方向以人机交互中的用户认知为主，包括：多模态信息界面的认知复杂度研究、面向AR/VR/MR技术的人机界面设计与可用性研究、人机交互中的视觉感知与交互模式研究等。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/11/18/20221118014142071fuld7f.jpg?iid=52192"
+    },
+    {
+        "id": "0056",
+        "Name": "赵　寅",
+        "Research_direction": "产品创新设计、设计思维与方法。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142356065w97ccd.jpg?iid=47295"
+    },
+    {
+        "id": "0057",
+        "Name": "邹媛媛",
+        "Research_direction": "家具设计与工程",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142150697jvluwi.jpg?iid=47291"
+    },
+    {
+        "id": "0058",
+        "Name": "朱兆龙",
+        "Research_direction": "先进切削加工技术、数字化设计与制造技术。",
+        "img": "https://jiaju.njfu.edu.cn/DFS//file/2022/08/18/20220818142150854ptng5d.jpg?iid=47292"
+    }
+]

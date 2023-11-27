@@ -1,0 +1,902 @@
+[
+    {
+        "id": "0001",
+        "Name": " 陈国",
+        "Research_direction": "钢竹木结构、桥梁施工技术、新型复合材料、混凝土结构",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/06/23/20220623144503622jfm4r9.png"
+    },
+    {
+        "id": "0002",
+        "Name": " 陈蕾",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//network//szdw/js/i230677/16340966594393rqjuk.png"
+    },
+    {
+        "id": "0003",
+        "Name": " 胡海波",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0004",
+        "Name": " 黄东升",
+        "Research_direction": "主要研究方向：复合材料强度与结构理论，结构振动控制。",
+        "img": "https://tumu.njfu.edu.cn//DFS//network/c2879/i123805/1577160056285catlcm.JPG"
+    },
+    {
+        "id": "0005",
+        "Name": " 黄凯健",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//network/c2879/i123812/1577160163776hn3zwd.jpg"
+    },
+    {
+        "id": "0006",
+        "Name": " 黄 新",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/08/20200108104757249s4g3nn.jpg"
+    },
+    {
+        "id": "0007",
+        "Name": " 荆肇乾",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001090938212997trm6k.png"
+    },
+    {
+        "id": "0008",
+        "Name": " 李国芬",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109094511700phy8nx.jpg"
+    },
+    {
+        "id": "0009",
+        "Name": " 李海涛",
+        "Research_direction": "（1）生物质复合建筑材料与结构：竹结构、木结构、秸秆结构等<br/>（2）工程抗震与防灾减灾：结构体系的抗震与防灾减灾<br/>（3）组合结构：竹/木/FRP/钢/混凝土组合结构等<br/>（4）高性能混凝土结构<br/>（5）结构检测加固",
+        "img": "https://tumu.njfu.edu.cn//DFS//network/c2879/i137643/1599041661000rsg5fm.jpg"
+    },
+    {
+        "id": "0010",
+        "Name": " 李洁",
+        "Research_direction": "工程风险管理",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/02/20/20230220112053085l2s97z.png"
+    },
+    {
+        "id": "0011",
+        "Name": " 李林",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109095034841wmvwza.png"
+    },
+    {
+        "id": "0012",
+        "Name": " 李明诗",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0013",
+        "Name": "  李强",
+        "Research_direction": "本人从事的研究领域为高性能路面结构设计与材料应用，主要研究方向包括路面材料多尺度表征与仿真分析、道路绿色养护与高效再生新技术、智能道路基础设施建造技术等。先后主持了国家自然科学基金、江苏省基础研究计划（自然科学基金）、教育部高等学校博士学科点专项科研基金、教育部留学回国人员科研启动基金、留学人员科技活动项目择优资助经费项目、中国博士后科学基金、江苏省产学研合作项目、江苏省博士后科研资助计划项目等科研项目20余项，企业委托科技攻关项目30余项；发表学术论文80多篇，其中SCI检索40余篇；获授权专利20余项；获得江苏省科学技术一等奖1项、中国公路学会交通BIM工程创新奖二等奖1项、江苏省高等学校科学研究成果二等奖1项、江苏省建设科技创新成果二等奖1项；参编专著1部、教材1部、地方标准2部。<br/>研究生招生方向：<br/>博士：森林工程<br/>硕士：道路与铁道工程、土木水利（道路与桥梁工程方向）、交通运输等。<br/>（1）路面材料多尺度表征与仿真分析<br/>（2）道路绿色养护与高效再生新技术<br/>（3）智能道路基础设施建造技术",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/09/02/20200902183032164atst1t.jpg"
+    },
+    {
+        "id": "0014",
+        "Name": " 李希胜",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001090951278619iqe5w.png"
+    },
+    {
+        "id": "0015",
+        "Name": " 李延军",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0016",
+        "Name": " 林少华",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/2020010909530411067m37p.png"
+    },
+    {
+        "id": "0017",
+        "Name": " 林涛",
+        "Research_direction": "2、近年来承担的主要科研项目：（1）2010-2015，十二五森林工程重点学科建设生态经济学（专著），排序1（2）2010-2015，十二五森林工程重点学科建设汽车运输工程（教材），排序1（3）2010-2015，工程中的经济学（专著），排序1（4）2010-2015，科学研究方法（教材），排序1<br/>3、近年来具有代表性的论文、论著：（1）八卦洲江滩森工生态开发试验构想，安徽农业科学 \n，2008（27），第一作者（2）森林工程专业发展思考，森林工程，2008（6），第一作者（3）用权数区间构建运输方式选择模型，森林工程 \n，2008（6），第一作者（4）公路施工的安全管理模式研究，中外公路，2010，第二作者（5）林区道路建设对环境影响评价，西南林学院学报，2011，第二作者<br/>三、通讯地址<br/>江苏省南京市南京林业大学土木工程学院3421（210037）",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109095544082efzk6i.jpg"
+    },
+    {
+        "id": "0018",
+        "Name": " 毛鹏",
+        "Research_direction": "(1)可持续建设<br/>(2)工程环境与健康（健康建筑、环境健康、职业健康等）<br/>(3)绿色建筑<br/>(4)建筑节能与用能行为<br/>(5)大型基础设施建设与运营管理<br/>(6)风险管理<br/>(7)建设工程保险等",
+        "img": "https://tumu.njfu.edu.cn//DFS//network//szdw/js/i230669/1634084874908u7tcgl.png"
+    },
+    {
+        "id": "0019",
+        "Name": " 阙泽利",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0020",
+        "Name": " 邵光辉",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109095752876f2haf4.jpg"
+    },
+    {
+        "id": "0021",
+        "Name": " 史玉峰",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109095857919ewebt1.png"
+    },
+    {
+        "id": "0022",
+        "Name": " 孙丰文",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0023",
+        "Name": " 王宏畅",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001090959443568n6kfx.jpg"
+    },
+    {
+        "id": "0024",
+        "Name": " 王立彬",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2019/12/24/201912241152125248p36ru.jpg"
+    },
+    {
+        "id": "0025",
+        "Name": " 王元纲",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109100138863ksesf8.jpg"
+    },
+    {
+        "id": "0026",
+        "Name": " 王郑",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/11/28/20221128171353933fmn4yg.png"
+    },
+    {
+        "id": "0027",
+        "Name": " 王志强",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0028",
+        "Name": " 魏洋",
+        "Research_direction": "1.绿色低碳新型竹木结构<br/>2.桥梁结构服役性能提升<br/>3.新型可持续组合结构",
+        "img": "https://tumu.njfu.edu.cn//DFS//network/c2879/i137656/1623202993964wkk1ej.jpg"
+    },
+    {
+        "id": "0029",
+        "Name": " 许涛",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091005564485atp1v.png"
+    },
+    {
+        "id": "0030",
+        "Name": " 徐霄枭",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2021/04/21/20210421151236832d7murt.png"
+    },
+    {
+        "id": "0031",
+        "Name": " 杨平",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2019/09/09/20190909071417306g8lahf.png"
+    },
+    {
+        "id": "0032",
+        "Name": " 云挺",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0033",
+        "Name": " 张永兴",
+        "Research_direction": "（1）隧道与地下工程（山岭隧道、城市地铁、综合管廊等）灾变控制技术及分析方法<br/>（2）工程结构新材料（纤维增强水泥基复合材料等）加固技术与分析方法",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/06/24/20220624103845242r6jydd.jpg"
+    },
+    {
+        "id": "0034",
+        "Name": " 赵尘",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//network/c2879/i123850/1577160772524zy5qfd.png"
+    },
+    {
+        "id": "0035",
+        "Name": " 郑晓燕",
+        "Research_direction": "研究方向：钢筋混凝土结构基本理论及计算方法、工程结构耐久性及鉴定加固、新型组合结构。",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109100800979wajyht.jpg"
+    },
+    {
+        "id": "0036",
+        "Name": " 周爱萍",
+        "Research_direction": "现代竹/木结构",
+        "img": "None"
+    },
+    {
+        "id": "0037",
+        "Name": " 张文华",
+        "Research_direction": "新型结构材料设计与制备，新型防护工程材料抗爆炸、冲击性能研究，混凝土长寿命理论，现代混凝土微结构形成机理等。",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/09/01/20230901153157608th7upp.jpg"
+    },
+    {
+        "id": "0038",
+        "Name": " 邹星星",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/09/08/202309081419529622lwygg.png"
+    },
+    {
+        "id": "0039",
+        "Name": " 朱建君",
+        "Research_direction": "工程造价管理、合同管理、绿色建筑、房地产",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109100925060clldye.jpg"
+    },
+    {
+        "id": "0040",
+        "Name": " 蔡光华",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/08/28/20200828125458893dp48dl.png"
+    },
+    {
+        "id": "0041",
+        "Name": " 曹世玮",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109103732299dlxmc4.png"
+    },
+    {
+        "id": "0042",
+        "Name": " 陈动",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2021/10/22/2021102212460253252ps2x.jpg"
+    },
+    {
+        "id": "0043",
+        "Name": " 陈冬冬",
+        "Research_direction": "（1）基于压电/光纤等智能材料的超高分辨率结构健康监测；<br/>（2）混凝土中应力波传播及衰减规律研究；<br/>（3）基于碰撞力学的结构损伤监测；<br/>（4）竹、木及其复合结构的损伤监测；",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/10/20/20201020094509358lw6rlt.png"
+    },
+    {
+        "id": "0044",
+        "Name": " 陈红华",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109103927503d7spnh.png"
+    },
+    {
+        "id": "0045",
+        "Name": " 陈永霞",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109104117828xwxwst.png"
+    },
+    {
+        "id": "0046",
+        "Name": " 褚洪岩",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/03/16/20220316144113153gqkjcq.png"
+    },
+    {
+        "id": "0047",
+        "Name": " 崔鹏",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/10/10/20221010142953866ycy6mh.png"
+    },
+    {
+        "id": "0048",
+        "Name": " 戴兆华",
+        "Research_direction": "一、主要研究方向：工程项目管理、全过程工程咨询",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/09/02/20200902180713394vf3nkp.jpg"
+    },
+    {
+        "id": "0049",
+        "Name": " 丁明珉",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/09/04/20230904152709558cvfcs3.png"
+    },
+    {
+        "id": "0050",
+        "Name": " 丁里宁",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/05/10/20220510143900651j7fksc.jpg"
+    },
+    {
+        "id": "0051",
+        "Name": "  杜浩",
+        "Research_direction": "（1）钢-混凝土组合结构<br/>（2）新型竹木组合结构<br/>（3）竹木结构抗火性能",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/02/13/20230213093321254vn1q54.png"
+    },
+    {
+        "id": "0052",
+        "Name": " 端茂军",
+        "Research_direction": "（1）桥梁智慧建造及技术咨询<br/>（2）结构拆除及绿色循环利用<br/>（3）高性能混凝土（UHPC）组合结构力学行为<br/>（4）大跨度桥梁及地下结构施工技术",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/09/07/20230907141654388anf3hw.png"
+    },
+    {
+        "id": "0053",
+        "Name": " 范旭红",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0054",
+        "Name": " 冯岚",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091147236583fbg4m.jpg"
+    },
+    {
+        "id": "0055",
+        "Name": " 高敏杰",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109104411268yk7e1t.jpg"
+    },
+    {
+        "id": "0056",
+        "Name": " 何立恒",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109104457914hyl3j8.png"
+    },
+    {
+        "id": "0057",
+        "Name": " 姜元中",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109104534158ckz9cj.png"
+    },
+    {
+        "id": "0058",
+        "Name": " 李建慧",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109104643118z7nf5l.jpg"
+    },
+    {
+        "id": "0059",
+        "Name": " 李娜",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109104746868k68idj.png"
+    },
+    {
+        "id": "0060",
+        "Name": " 林子增",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109104913321qmtqeg.png"
+    },
+    {
+        "id": "0061",
+        "Name": " 刘成",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109104946748iwc4iz.jpg"
+    },
+    {
+        "id": "0062",
+        "Name": " 刘福寿",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/09/04/20230904152843278wbhs6j.png"
+    },
+    {
+        "id": "0063",
+        "Name": " 刘利清",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109105038646nw91bq.png"
+    },
+    {
+        "id": "0064",
+        "Name": " 刘鹏",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn/https://bsmanager.njfu.edu.cn/DFS//network//szdw/fjs/i229776/1631590777235979al4.png"
+    },
+    {
+        "id": "0065",
+        "Name": " 刘兴光",
+        "Research_direction": "信息化建设与管理、大数据分析",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2019/12/24/20191224115549259i551rj.png"
+    },
+    {
+        "id": "0066",
+        "Name": " 刘艳军",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109105309331574mep.png"
+    },
+    {
+        "id": "0067",
+        "Name": " 柳任飞",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/09/02/20200902182756209476iid.jpg"
+    },
+    {
+        "id": "0068",
+        "Name": " 吕伟华",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109105354078yd1d77.png"
+    },
+    {
+        "id": "0069",
+        "Name": " 马翔",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109105456356njj8hg.jpg"
+    },
+    {
+        "id": "0070",
+        "Name": "  马欣",
+        "Research_direction": "城市开发与房地产经营、房地产价格与住房保障政策",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109105536427yqr7ms.png"
+    },
+    {
+        "id": "0071",
+        "Name": " 沙奔",
+        "Research_direction": "l古建筑木结构抗震分析与性能评估<br/>l古木结构损伤分析及加固保护",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/05/16/202305160946584047i42pg.png"
+    },
+    {
+        "id": "0072",
+        "Name": " 苏毅",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091057024636kmy7k.png"
+    },
+    {
+        "id": "0073",
+        "Name": " 孙敦本",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109105822845mk9msw.jpg"
+    },
+    {
+        "id": "0074",
+        "Name": " 唐煜",
+        "Research_direction": "桥梁水下结构新型检测与加固技术研究；<br/>新型FRP制品基本性能与创新应用研究。",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/09/14/202209141411090148ijqbj.png"
+    },
+    {
+        "id": "0075",
+        "Name": " 文嘉意",
+        "Research_direction": "（1）能源基础设施抗震；<br/>（2）新型结构振动控制理论与减隔震技术；<br/>（3）复杂电网基础设施的多尺度动力分析与智能化防灾减灾；<br/>（4）基础设施系统抗震韧性分析与评价理论。",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/11/07/20221107144402157zfqj2y.png"
+    },
+    {
+        "id": "0076",
+        "Name": " 王大明",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109105922067q6eis2.png"
+    },
+    {
+        "id": "0077",
+        "Name": " 王家庆",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2021/10/18/2021101813184911521drfd.png"
+    },
+    {
+        "id": "0078",
+        "Name": " 王秋东",
+        "Research_direction": "1.钢桥疲劳与维护；<br/>2.新型桥梁结构。",
+        "img": "https://tumu.njfu.edu.cn//DFS//wordimp/5y2/c2880/i226467/image1.jpeg"
+    },
+    {
+        "id": "0079",
+        "Name": " 王志杰",
+        "Research_direction": "主要研究方向：自然资源调查监测技术，数据可视化与分析技术。",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109110004091lp6znh.png"
+    },
+    {
+        "id": "0080",
+        "Name": " 魏浩翰",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109110039501mkszgi.png"
+    },
+    {
+        "id": "0081",
+        "Name": " 吴俊康",
+        "Research_direction": "水污染控制与应用环境微生物，生物脱氮调控，氮循环及NOx释放，新兴污染物风险评估，细菌群体感应，基因组学、转录组学及代谢组学在环境微生物技术中的应用。",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/10/22/20201022143600282vvessp.png"
+    },
+    {
+        "id": "0082",
+        "Name": " 夏文静",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2021/05/07/202105070828176611se81s.png"
+    },
+    {
+        "id": "0083",
+        "Name": " 肖妍玎",
+        "Research_direction": "党建与思想政治教育、教育管理研究",
+        "img": "https://tumu.njfu.edu.cn//bcms/DFS//network/c2880/i137698/1599041175459ky7kn2.jpg"
+    },
+    {
+        "id": "0084",
+        "Name": " 薛红琴",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109110300744zjl8ew.png"
+    },
+    {
+        "id": "0085",
+        "Name": " 杨强",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109110334067pg8i5s.png"
+    },
+    {
+        "id": "0086",
+        "Name": " 余爱华",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109110415660nwcgyl.png"
+    },
+    {
+        "id": "0087",
+        "Name": " 袁峻",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109110502529kq3q4m.jpg"
+    },
+    {
+        "id": "0088",
+        "Name": " 张婷",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/2020010911054588517p19y.jpg"
+    },
+    {
+        "id": "0089",
+        "Name": " 张延泰",
+        "Research_direction": "基于性能的结构抗震设计理论与方法、高层建筑结构倒塌安全储备分析与评估、装配式RC/RCS/竹木结构地震损伤演化规律与倒塌风险控制。",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/07/03/20200703165310145bwi367.png"
+    },
+    {
+        "id": "0090",
+        "Name": " 赵康",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/2020010911080848156f3ub.png"
+    },
+    {
+        "id": "0091",
+        "Name": " 赵曜",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091200555777b3ejj.png"
+    },
+    {
+        "id": "0092",
+        "Name": " 赵志峰",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109110845093nnwcj3.jpg"
+    },
+    {
+        "id": "0093",
+        "Name": "  郑开启",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/07/25/20220725160043402zwk33x.png"
+    },
+    {
+        "id": "0094",
+        "Name": " 郑加柱",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109110924002zsnz8v.png"
+    },
+    {
+        "id": "0095",
+        "Name": " 周培国",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0096",
+        "Name": " 朱少云",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0097",
+        "Name": " 曹静",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0098",
+        "Name": " 陈健（工管）",
+        "Research_direction": "房地产管理，土地管理。",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109114143688rlm89v.png"
+    },
+    {
+        "id": "0099",
+        "Name": " 陈健",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/2020010911423506225l39c.png"
+    },
+    {
+        "id": "0100",
+        "Name": " 陈媛媛",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109114314897b5ch3a.png"
+    },
+    {
+        "id": "0101",
+        "Name": " 崔天翔",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0102",
+        "Name": " 董峰辉",
+        "Research_direction": "（1）桥梁结构设计与分析理论<br/>（2）竹木及组合结构理论<br/>（3）景观桥梁设计理论",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109114648470fehc6q.png"
+    },
+    {
+        "id": "0103",
+        "Name": " 韩超南",
+        "Research_direction": "（1）环境地球化学：湖泊、水库生源要素的来源、迁移与归趋<br/>（2）水环境污染与防治：水环境脱氮除磷的创新技术探索与实践",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2021/10/13/20211013115118150cyr7zb.png"
+    },
+    {
+        "id": "0104",
+        "Name": " 何龙江",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091148037069evrk6.png"
+    },
+    {
+        "id": "0105",
+        "Name": " 何文龙",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091148336175ctnck.png"
+    },
+    {
+        "id": "0106",
+        "Name": " 侯彦明",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109114917444mmt6a7.jpg"
+    },
+    {
+        "id": "0107",
+        "Name": " 黄林杰",
+        "Research_direction": "（1）自复位抗震结构与新型损伤可控结构体系<br/>（2）预应力结构体系分析理论及设计方法<br/>（3）钢筋混凝土结构抗震性能<br/>（4）钢-竹（木）组合结构设计理论",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2021/05/06/20210506171251806rkq13p.png"
+    },
+    {
+        "id": "0108",
+        "Name": " 李红艳",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109114959444cz1eeh.png"
+    },
+    {
+        "id": "0109",
+        "Name": " 林煜",
+        "Research_direction": "（1）装配式组合框架结构抗震性能及设计方法<br/>（2）低碳竹木组合构件及结构体系设计理论<br/>（3）抗震消能减震附加体系分析及优化设计",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/10/20/2023102009210777357n61m.png"
+    },
+    {
+        "id": "0110",
+        "Name": " 刘杰",
+        "Research_direction": "（1）新型结构和新材料<br/>（2）桥梁结构设计与分析理论<br/>（3）钢桥加固技术研究",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2022/04/19/2022041916485955594kpir.png"
+    },
+    {
+        "id": "0111",
+        "Name": " 刘嵩",
+        "Research_direction": "高速铁路沥青混凝土道床长期服役性能研究<br/>无砟轨道沥青混凝土基床抗裂设计与评价",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2021/04/21/20210421144438691zskclr.png"
+    },
+    {
+        "id": "0112",
+        "Name": " 刘亚利",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109115228614c9hxbn.png"
+    },
+    {
+        "id": "0113",
+        "Name": " 栾志刚",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091153049211k3xae.png"
+    },
+    {
+        "id": "0114",
+        "Name": " 那嘉明",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2021/12/02/20211202145859565xyasm2.png"
+    },
+    {
+        "id": "0115",
+        "Name": " 潘玉芹",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109115437082p3chqc.png"
+    },
+    {
+        "id": "0116",
+        "Name": " 史海霞",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109115524194qm5e9y.jpg"
+    },
+    {
+        "id": "0117",
+        "Name": " 史晓云",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109115605345laj98q.png"
+    },
+    {
+        "id": "0118",
+        "Name": " 苏萌",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109115637048qncsgy.png"
+    },
+    {
+        "id": "0119",
+        "Name": " 沈哲辉",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/03/15/20230315105746495i7m87q.png"
+    },
+    {
+        "id": "0120",
+        "Name": " 隋铭明",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109115712323ebm1pc.png"
+    },
+    {
+        "id": "0121",
+        "Name": " 王静洁",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109115804636ltikwa.png"
+    },
+    {
+        "id": "0122",
+        "Name": " 王旭东",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109115846239ud1367.png"
+    },
+    {
+        "id": "0123",
+        "Name": " 王祝来",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109115934127mmui5d.png"
+    },
+    {
+        "id": "0124",
+        "Name": " 许俊红",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109120019754295nm7.png"
+    },
+    {
+        "id": "0125",
+        "Name": " 张林防",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2021/10/13/20211013142203117iivtrf.png"
+    },
+    {
+        "id": "0126",
+        "Name": "  郑晓丹",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109120324180wu7e96.png"
+    },
+    {
+        "id": "0127",
+        "Name": " 周鹏",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109120400935yaecsy.jpg"
+    },
+    {
+        "id": "0128",
+        "Name": " 朱华平",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109120447823fwthpu.jpg"
+    },
+    {
+        "id": "0129",
+        "Name": " 朱杰",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091205387432ibdd1.png"
+    },
+    {
+        "id": "0130",
+        "Name": " 祝国栋",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109142310687xnw6sr.png"
+    },
+    {
+        "id": "0131",
+        "Name": " 尹申申",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0132",
+        "Name": " 齐冬梅",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091426459562wvfvp.jpg"
+    },
+    {
+        "id": "0133",
+        "Name": " 唐桂兰",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091426038706kz29a.png"
+    },
+    {
+        "id": "0134",
+        "Name": " 王海波",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109142527888z6zd1z.jpg"
+    },
+    {
+        "id": "0135",
+        "Name": " 周年强",
+        "Research_direction": "结构试验与检测技术，结构振动的减隔震控制，结构健康检测。<br/>3、参与的部分工程与科研项目<br/>[1]国家自然科学基金青年基金项目：《腹板开孔的竹工字梁受力性能与破坏机理研究》2015-2017（参与）;<br/>[2]锐珂（上海）医疗器材有限公司建筑振动测试试验;<br/>[3]某型核电站用电机抗震鉴定试验;<br/>[4]苏北灌溉总渠特大桥拆除施工监测试验等。",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2023/05/05/20230505105300426fh7nti.jpg"
+    },
+    {
+        "id": "0136",
+        "Name": " 陈正厂",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0137",
+        "Name": "  胡亚风",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109142825117m4jkww.jpg"
+    },
+    {
+        "id": "0138",
+        "Name": " 黄容聘",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091428591567eis2t.png"
+    },
+    {
+        "id": "0139",
+        "Name": " 盛晓艳",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109142943002a4gx67.jpg"
+    },
+    {
+        "id": "0140",
+        "Name": " 王伟杰",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109143026010pk48nu.jpg"
+    },
+    {
+        "id": "0141",
+        "Name": " 王增利<br/>姓名: 王增利            性别：男<br/>出 生 地：山东省济南市 出生日期：1984.10<br/>婚姻状况：已婚         政治面貌：中共党员<br/>工作单位：南京林业大学 学    位：博士<br/>地    址：南京市龙蟠路159号南京林业大学土木工程学院",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091431051335q2dkc.png"
+    },
+    {
+        "id": "0142",
+        "Name": " 张高勤",
+        "Research_direction": "None",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/202001091431380503xt3rp.png"
+    },
+    {
+        "id": "0143",
+        "Name": " 赵康",
+        "Research_direction": "（1）组合结构设计<br/>（2）钢桥面铺装技术",
+        "img": "https://tumu.njfu.edu.cn//DFS//file/2020/01/09/20200109143218605kcmz1k.jpg"
+    },
+    {
+        "id": "0144",
+        "Name": " 赵龙龙",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0145",
+        "Name": " 胡定安<br/>性别 ： \n男<br/>出生年月：1952年2月",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0146",
+        "Name": " 刘本锡",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0147",
+        "Name": " 祁海棠",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0148",
+        "Name": " 粟金云",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0149",
+        "Name": " 姚家熹",
+        "Research_direction": "None",
+        "img": "None"
+    },
+    {
+        "id": "0150",
+        "Name": " 名师队伍<br/>1<br/>2009.09<br/>江苏省高等学校教学名师<br/>杨平<br/>江苏省\"333高层次人才培养工程\"培养对象<br/>时间<br/>批次<br/>类型<br/>1<br/>1997<br/>第一期<br/>省\"333工程\"<br/>赵尘<br/>3层次<br/>2<br/>2001<br/>第二期<br/>省\"333工程\"<br/>赵尘<br/>3层次<br/>3<br/>2013<br/>第四期<br/>省\"333工程\"<br/>魏洋<br/>3层次<br/>4<br/>2016<br/>第五期<br/>省\"333工程\"<br/>魏洋<br/>3层次<br/>5<br/>2018<br/>第五期<br/>省\"333工程\"<br/>李海涛<br/>3层次<br/>江苏省\"六大人才高峰\"培养对象<br/>时间<br/>批次<br/>类型<br/>1<br/>2004<br/>二批<br/>六大人才高峰<br/>杨平<br/>D<br/>2<br/>2006<br/>三批<br/>六大人才高峰<br/>郑晓燕<br/>C<br/>3<br/>2007<br/>四批<br/>六大人才高峰<br/>王元纲<br/>C<br/>4<br/>2009<br/>六批<br/>六大人才高峰<br/>黄东升<br/>D<br/>5<br/>2017<br/>十四批<br/>六大人才高峰<br/>李海涛<br/>C<br/>6<br/>2017<br/>十四批<br/>六大人才高峰<br/>许涛<br/>A<br/>江苏省\"青蓝工程\"培养对象<br/>时间<br/>1<br/>1998<br/>省青蓝工程<br/>优秀青年骨干教师<br/>王元纲<br/>2<br/>2004<br/>省青蓝工程<br/>中青年学术带头人<br/>杨平<br/>3<br/>2006<br/>省青蓝工程<br/>优秀青年骨干教师<br/>郑加柱<br/>4<br/>2010<br/>省青蓝工程<br/>优秀青年骨干教师<br/>邵光辉<br/>5<br/>2012<br/>省青蓝工程<br/>优秀青年骨干教师<br/>魏洋<br/>6<br/>2014<br/>省青蓝工程<br/>中青年学术带头人<br/>许涛<br/>7<br/>2014<br/>省青蓝工程<br/>优秀青年骨干教师<br/>李海涛<br/>8<br/>2016<br/>省青蓝工程<br/>优秀青年骨干教师<br/>李强<br/>9<br/>2017<br/>省青蓝工程<br/>中青年学术带头人<br/>魏洋",
+        "Research_direction": "None",
+        "img": "None"
+    }
+]

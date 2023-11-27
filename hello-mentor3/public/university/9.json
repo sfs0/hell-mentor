@@ -1,0 +1,464 @@
+[
+    {
+        "id": "0001",
+        "Name": "乐志",
+        "Research_direction": "None",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911151551309fcytca.jpg?iid=65677"
+    },
+    {
+        "id": "0002",
+        "Name": "张叶茜",
+        "Research_direction": "①建筑历史与理论，主要研究领域如下：・徽州建筑的调查与研究 ・徽州宗族与村落文化研究 ・日本佛教建筑的调查与研究 ・四川佛教建筑的调查与研究 ②住宅建筑设计 ③景观建筑设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912152115170ezqbdv.png?iid=65789"
+    },
+    {
+        "id": "0003",
+        "Name": "汤猛",
+        "Research_direction": "园林建筑设计、景观规划与设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/13/20230913105617377icmg8k.jpg?iid=65849"
+    },
+    {
+        "id": "0004",
+        "Name": "徐振",
+        "Research_direction": "开放空间规划与设计(open space planning and un-design)  健康场所、城市与居民福祉(healthy place, happy city and citizens' wellbeing)  景观分析与城市设计(landscape analytics and urban design)  虚拟现实、数位映射与建造（X-reality, digital triplets, Intelligent fabrication）  城市形态,景观史与历史地理信息系统(urban morphology,landscape history and Historical \nGIS)",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911151346787besapi.jpg?iid=65676"
+    },
+    {
+        "id": "0005",
+        "Name": "程云杉",
+        "Research_direction": "景观建筑设计、技术与人文；营造教学实践",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/202309111643002587kgzhn.jpg?iid=65709"
+    },
+    {
+        "id": "0006",
+        "Name": "张金光",
+        "Research_direction": "城市绿色基础设施规划；绿色空间暴露的健康效应；城市公园可达性",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912160612425wbcgb5.jpg?iid=65808"
+    },
+    {
+        "id": "0007",
+        "Name": "邱冰",
+        "Research_direction": "景观规划与设计、景观工程",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/202309111534586274abyfb.jpg?iid=65688"
+    },
+    {
+        "id": "0008",
+        "Name": "徐海顺",
+        "Research_direction": "海绵城市与绿色基础设施、风景园林规划设计、农业与乡村规划设计、水文化景观与遗产保护、园林工程与技术，尤其是：绿地海绵体的调控机理、空间模拟、定量分析、植物应用与绩效评价等。",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911170936534p3jk64.jpg?iid=65725"
+    },
+    {
+        "id": "0009",
+        "Name": "江婷",
+        "Research_direction": "景观工程设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911153327692mphba4.jpg?iid=65684"
+    },
+    {
+        "id": "0010",
+        "Name": "赵晨洋",
+        "Research_direction": "绿色基础设施生态设计研究、生态景观建筑设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/202309111528279293fyc4c.jpg?iid=65682"
+    },
+    {
+        "id": "0011",
+        "Name": "何思琪",
+        "Research_direction": "健康照明、景观照明、基于HDR图像技术的测光方法",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912162708194qau29w.jpg?iid=65817"
+    },
+    {
+        "id": "0012",
+        "Name": "赵兵",
+        "Research_direction": "近年来，团队主要开展城市蓝绿空间健康促进效应的定量测度研究，内容涵盖基于社交媒体大数据的森林公园特征对游客情绪健康的影响评估，实景与虚拟暴露相结合的森林康养模式对个体多维健康效益的影响研究等，已在《Building and Environment》《Landscape and Urban Planning》《Science of the Total Environment》等国际高质量期刊发表学术论文近20篇，出版学术专著多部。",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/22/20230922115447265dxmnev.jpg?iid=66551"
+    },
+    {
+        "id": "0013",
+        "Name": "梁慧琳",
+        "Research_direction": "园林规划与设计、城市绿地规划、生态系统服务、江南私家园林",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/11/06/20231106091331523remin3.jpg?iid=70384"
+    },
+    {
+        "id": "0014",
+        "Name": "张哲",
+        "Research_direction": "景观建筑设计、风景名胜区规划、风景资源保护与利用",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911155223581d68udh.jpg?iid=65698"
+    },
+    {
+        "id": "0015",
+        "Name": "郭苏明",
+        "Research_direction": "研究方向为：建成环境更新研究、乡村人居环境研究、风景园林建筑设计及理论研究。主讲课程为：园林建筑设计、中外建筑史、绿色建筑设计等",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911163755844vibw3h.jpg?iid=65707"
+    },
+    {
+        "id": "0016",
+        "Name": "张青萍",
+        "Research_direction": "一级学科：风景园林学研究领域：风景园林遗产保护、风景园林历史与理论、风景园林规划设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/08/20230908164432064xxmbu5.png?iid=65518"
+    },
+    {
+        "id": "0017",
+        "Name": "任宇杰",
+        "Research_direction": "机器学习算法（以卷积神经网络为主）在城市景观设计领域的运用前景、城市化的环境生态效应（以气候效应为主）及其机制分析",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912162315786ec6zs9.jpg?iid=65815"
+    },
+    {
+        "id": "0018",
+        "Name": "刘伟",
+        "Research_direction": "城市风貌的继承与延续",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911150102236xdk3nq.jpg?iid=65671"
+    },
+    {
+        "id": "0019",
+        "Name": "梁会民",
+        "Research_direction": "区域与城市规划、地理信息系统应用",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/20/20230920154956853wvle5f.jpg?iid=66327"
+    },
+    {
+        "id": "0020",
+        "Name": "唐晓岚",
+        "Research_direction": "城乡规划与设计，风景园林规划与设计研究，景观社会学，景观生态学",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911152959755fxhe21.jpg?iid=65683"
+    },
+    {
+        "id": "0021",
+        "Name": "王慧",
+        "Research_direction": "弱势群体空间及其保障体系；时空行为和空间规划；城市设计理论与方法",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/202309121525041949n36r3.png?iid=65792"
+    },
+    {
+        "id": "0022",
+        "Name": "余思奇",
+        "Research_direction": "城市与区域规划、城市住房与社会空间、城市更新与绅士化、城市绿地系统规划等",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912161616000cap9sj.png?iid=65810"
+    },
+    {
+        "id": "0023",
+        "Name": "文博",
+        "Research_direction": "国土空间规划、国土整治与生态修复、农业规划",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/202309121539457025e8jm1.jpg?iid=65794"
+    },
+    {
+        "id": "0024",
+        "Name": "殷洁",
+        "Research_direction": "一、消费空间生产研究  二、城市与区域重构研究  三、积极老龄化研究  ",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911152259882vwn4ja.jpg?iid=65680"
+    },
+    {
+        "id": "0025",
+        "Name": "申世广",
+        "Research_direction": "城乡绿色人居环境规划设计技术与方法；城乡生态景观安全格局与蓝绿空间；美丽乡村规划等。",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911151131277btyq8q.jpg?iid=65674"
+    },
+    {
+        "id": "0026",
+        "Name": "黄焕春",
+        "Research_direction": "城市健康环境研究（热岛、噪声等），风景园林与GIS, 城市空间结构与形态，地理设计与城市模拟，城乡规划与风水理论研究等",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911170721174tlfz1t.png?iid=65717"
+    },
+    {
+        "id": "0027",
+        "Name": "崔志华",
+        "Research_direction": "城乡生态规划，风景与旅游规划，景观生态规划设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911150250143x52u85.jpg?iid=65672"
+    },
+    {
+        "id": "0028",
+        "Name": "柴洋波",
+        "Research_direction": "None",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911170059050hxnmia.jpg?iid=65714"
+    },
+    {
+        "id": "0029",
+        "Name": "张帆",
+        "Research_direction": "城市更新、历史街区保护、城市设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911154650682md7ris.jpg?iid=65694"
+    },
+    {
+        "id": "0030",
+        "Name": "王成康",
+        "Research_direction": "风景园林规划与设计；遗产景观保护；城市公共空间设计；日本景观规划与制度研究",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/202309121517028252hlhe3.jpg?iid=65788"
+    },
+    {
+        "id": "0031",
+        "Name": "方程",
+        "Research_direction": "城市规划与设计、景观规划与设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911155900500ukvea9.jpg?iid=65702"
+    },
+    {
+        "id": "0032",
+        "Name": "李岚",
+        "Research_direction": "城乡规划设计与理论、遗产保护、园林历史研究",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911165811890cg8z5j.jpg?iid=65713"
+    },
+    {
+        "id": "0033",
+        "Name": "熊伟婷",
+        "Research_direction": "城市设计；数字化技术方法；城市空间形态；大数据等",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912160329789s4ylif.png?iid=65807"
+    },
+    {
+        "id": "0034",
+        "Name": "胡昕宇",
+        "Research_direction": "城市中心区空间形态理论及方法研究、城市空间形态设计、大数据技术辅助下的城市开放空间研究",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912151502427rgkcjt.png?iid=65787"
+    },
+    {
+        "id": "0035",
+        "Name": "张磊",
+        "Research_direction": "None",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911155103396167337.png?iid=65697"
+    },
+    {
+        "id": "0036",
+        "Name": "汪徽",
+        "Research_direction": "近年研究方向为弱势群体的时空行为、微观视角下的社会空间分异、社区生活圈规划和城市微更新等。研究兴趣还包括行为地理学、时间地理学、城乡规划学等多学科交叉背景下的弱势群体日常生活空间的公平正义及其生活质量的提升，关注弱势群体的日常活动时空需求、低收入社区建成环境评价、基于多源异构大数据的时空行为模拟等内容。",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912155239765kg47b9.png?iid=65800"
+    },
+    {
+        "id": "0037",
+        "Name": "范晨璟",
+        "Research_direction": "城市生态环境，城市健康，城市防灾，大数据与GIS",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/2023091215480173625dvrs.png?iid=65799"
+    },
+    {
+        "id": "0038",
+        "Name": "李志明",
+        "Research_direction": "健康城市规划、城市设计、城乡规划历史与理论、大尺度绿色开放空间规划、江南古典园林历史与理论",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911163129407cmtmed.png?iid=65704"
+    },
+    {
+        "id": "0039",
+        "Name": "强欢欢",
+        "Research_direction": "主要研究方向为弱势群体的居住空间及其保障体系、城市设计理论与方法等。",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/2023091215562380984j5qm.png?iid=65801"
+    },
+    {
+        "id": "0040",
+        "Name": "岳远征",
+        "Research_direction": "园林植物遗传育种与生物技术、园林植物造景与应用招收风景园林学博士（园林植物）、风景园林学科硕、风景园林专硕（园林植物）、园林植物与观赏园艺科硕。欢迎加入我们！",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/202309111714385355t2l9k.png?iid=65728"
+    },
+    {
+        "id": "0041",
+        "Name": "丁彦芬",
+        "Research_direction": "园林植物栽培与生理、园林植物资源与应用",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911144413008jmhmja.jpg?iid=65663"
+    },
+    {
+        "id": "0042",
+        "Name": "耿兴敏",
+        "Research_direction": "杜鹃花属植物种质创新与快繁技术研究园林植物栽培与应用研究鲜切花采后生理与保鲜技术研究",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/04/13/20230413231051889krbbfg.png?iid=65696"
+    },
+    {
+        "id": "0043",
+        "Name": "王良桂",
+        "Research_direction": "植物栽培与应用、园林工程管理等。",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2020/07/02/20200702155337205syvg3m.jpg?iid=65857"
+    },
+    {
+        "id": "0044",
+        "Name": "祝遵凌",
+        "Research_direction": "园林植物应用、植物景观设计、园林植物栽培理论与实践、生态设计理论与方法、园林项目管理等。",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/13/20230913121216506zn6lkp.jpg?iid=65858"
+    },
+    {
+        "id": "0045",
+        "Name": "田如男",
+        "Research_direction": "研究方向园林植物生态修复、园林植物种质资源、园林植物繁殖栽培、园林植物应用研究生招生专业学术型：090706园林植物与观赏园艺专业型：086200风景园林（02园林植物）<br/>园林植物生态修复、园林植物种质资源、园林植物繁殖栽培、园林植物应用<br/><br/>研究生招生专业<br/>学术型：090706园林植物与观赏园艺<br/>专业型：086200风景园林（02园林植物）",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/21/202309212014251772hqd5a.png?iid=66466"
+    },
+    {
+        "id": "0046",
+        "Name": "Sikandar Hayat",
+        "Research_direction": "None",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/13/202309131109036116cw5m3.png?iid=65852"
+    },
+    {
+        "id": "0047",
+        "Name": "辛建攀",
+        "Research_direction": "园林植物逆境生理园林植物应用",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912154443776scnwxc.jpg?iid=65798"
+    },
+    {
+        "id": "0048",
+        "Name": "圣倩倩",
+        "Research_direction": "主要围绕园林植物应用生态学方面持续研究。      1. 园林植物种质资源多用途创新与设计应用   2. 园林植物生理和生态修复机理研究   3. 园林植物景观数字化创新设计理论与方法   4. 城乡绿地生态系统服务测度和高质量发展机制研究",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/04/13/20230413215241176uesrz1.jpg?iid=65795"
+    },
+    {
+        "id": "0049",
+        "Name": "王菲彬",
+        "Research_direction": "园林植物与观赏园艺",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911151848870i577xv.jpg?iid=65678"
+    },
+    {
+        "id": "0050",
+        "Name": "杨秀莲",
+        "Research_direction": "1. 桂花、海州常山、石蒜等种质资源创新与选育理论与技术2. 园林植物繁殖栽培与应用等技术研究",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911145840269xiumx3.png?iid=65670"
+    },
+    {
+        "id": "0051",
+        "Name": "文书生",
+        "Research_direction": "【研究方向】1.园林植物繁殖与栽培，主要研究对象是牡丹，部分涉及陀螺果、溲疏等木本观赏植物。2.园林植物生物技术，主要围绕牡丹试管苗生根和移栽问题展开相关的机理探究。3.园林植物应用，围绕植物造景、插花艺术等展开相关应用研究【招生方向】 招收风景园林学科硕（农学）097300、风景园林专硕（园林植物方向）095300<br/>1.园林植物繁殖与栽培，主要研究对象是牡丹，部分涉及陀螺果、溲疏等木本观赏植物。<br/>2.园林植物生物技术，主要围绕牡丹试管苗生根和移栽问题展开相关的机理探究。<br/>3.园林植物应用，围绕植物造景、插花艺术等展开相关应用研究<br/>【招生方向】 招收风景园林学科硕（农学）097300、风景园林专硕（园林植物方向）095300<br/>",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912151215749we7ths.png?iid=66857"
+    },
+    {
+        "id": "0052",
+        "Name": "张鸽香",
+        "Research_direction": "园林植物的生产、栽培与应用",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911143330133u1c9zx.jpg?iid=65659"
+    },
+    {
+        "id": "0053",
+        "Name": "胡凤荣",
+        "Research_direction": "花卉遗传育种、球根花卉细胞遗传学及分子生物学",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/202309111554256847ev149.jpg?iid=65699"
+    },
+    {
+        "id": "0054",
+        "Name": "许浩",
+        "Research_direction": "风景园林历史与理论；绿道规划、区域绿地系统规划研究；数字技术（GIS与遥感）支持下的景观规划设计技术与景观分析；风景园林历史GIS；城乡生态环境营造理论与实践；环境设计史、设计史论；",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/25/20230925184930960yzzg8g.jpg?iid=66854"
+    },
+    {
+        "id": "0055",
+        "Name": "孙新旺",
+        "Research_direction": "风景园林规划设计、城镇绿色开放空间体系构建。",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911145512388j5dwcg.jpg?iid=65668"
+    },
+    {
+        "id": "0056",
+        "Name": "陈硕蕾",
+        "Research_direction": "学术论文：  会议论文/报告：  ",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/202309121557548031mt3u6.png?iid=65805"
+    },
+    {
+        "id": "0057",
+        "Name": "李晓颖",
+        "Research_direction": "风景园林规划设计,休闲农业景观，乡村景观规划设计；",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911150626652j8vlj5.jpg?iid=65673"
+    },
+    {
+        "id": "0058",
+        "Name": "范榕",
+        "Research_direction": "景观规划与设计、景观空间视觉感受分析评价、景观建筑、场地规划",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/202309111711447731d8izk.jpg?iid=65726"
+    },
+    {
+        "id": "0059",
+        "Name": "费文君",
+        "Research_direction": "风景园林规划设计，城市绿地系统、防灾避险绿地规划设计，旅游规划，乡村规划。",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911165555956ht6ctb.jpg?iid=65712"
+    },
+    {
+        "id": "0060",
+        "Name": "严军",
+        "Research_direction": "风景园林规划与设计、城市绿地系统规划、生态景观规划设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911145653185i8ixxa.jpg?iid=65669"
+    },
+    {
+        "id": "0061",
+        "Name": "龚道德",
+        "Research_direction": "文化景观、景观小品与城市雕塑",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/202309111526229983flnsb.jpg?iid=65681"
+    },
+    {
+        "id": "0062",
+        "Name": "胡运宏",
+        "Research_direction": "风景园林理论与历史江南园林史",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/10/20/20231020100806125i7x9zi.jpg?iid=68299"
+    },
+    {
+        "id": "0063",
+        "Name": "刘源",
+        "Research_direction": "城市公园规划与设计、城市绿地景观更新、城市口袋公园规划设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/202309111541481071kvgwi.jpg?iid=65691"
+    },
+    {
+        "id": "0064",
+        "Name": "曹加杰",
+        "Research_direction": "园林规划设计、地景规划与生态修复、环境景观设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/06/202309061459304615vbmly.png?iid=65689"
+    },
+    {
+        "id": "0065",
+        "Name": "王浩",
+        "Research_direction": "风景园林规划与设计、城市绿地系统规划",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/11/15/20231115160730309pi5edn.png?iid=71143"
+    },
+    {
+        "id": "0066",
+        "Name": "杨云峰",
+        "Research_direction": "城市湿地公园设计、园林史",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911160144761kqds7e.jpg?iid=65703"
+    },
+    {
+        "id": "0067",
+        "Name": "王燕燕",
+        "Research_direction": "风景园林规划与设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911154011941igv9mn.jpg?iid=65690"
+    },
+    {
+        "id": "0068",
+        "Name": "谷康",
+        "Research_direction": "城市绿地系统规划、风景园林规划与设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911143708449n4w2hd.jpg?iid=65660"
+    },
+    {
+        "id": "0069",
+        "Name": "陆熹",
+        "Research_direction": "数字技术、公众参与、公众感知、文化景观",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912162128821n1lz59.jpg?iid=65814"
+    },
+    {
+        "id": "0070",
+        "Name": "何疏悦",
+        "Research_direction": "研究方向： 城市生产性景观、城市景观社会学主讲课程：园林建筑设计、建筑外环境设计、公共环境艺术、构成设计、园林建筑构造；",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911152048457atcg2f.png?iid=65679"
+    },
+    {
+        "id": "0071",
+        "Name": "江畔",
+        "Research_direction": "工业遗产保护与开发、大尺度遗产保护规划、解说规划、城市景观",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/12/20230912161043997z6yl8s.png?iid=65809"
+    },
+    {
+        "id": "0072",
+        "Name": "魏蕴然",
+        "Research_direction": "园林景观建筑的空间美学研究、VI及导视系统设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911163353622jylk4n.jpg?iid=65705"
+    },
+    {
+        "id": "0073",
+        "Name": "杨向青",
+        "Research_direction": "园林规划设计、中外园林史",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/2023091114422873968b6rm.jpg?iid=65662"
+    },
+    {
+        "id": "0074",
+        "Name": "万静",
+        "Research_direction": "园林景观规划与设计，生态景观规划与设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911164024598u681r1.jpg?iid=65708"
+    },
+    {
+        "id": "0075",
+        "Name": "汪辉",
+        "Research_direction": "研究方向：",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/26/20230926111711752qqthd2.png?iid=66891"
+    },
+    {
+        "id": "0076",
+        "Name": "苏同向",
+        "Research_direction": "城市绿地系统规划，风景园林规划与设计",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/11/20230911154436393iewrly.jpg?iid=65693"
+    },
+    {
+        "id": "0077",
+        "Name": "杨艺红",
+        "Research_direction": "None",
+        "img": "https://yuanlin.njfu.edu.cn//DFS//file/2023/09/13/20230913104936021sld9uu.jpg?iid=65848"
+    }
+]
